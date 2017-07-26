@@ -1,0 +1,16 @@
+# Summary
+
+* [What is this primer?](README.md)
+* [Components](text/categories/README.md)
+	* [00 :: Ladybug](text/categories/00 _ Ladybug.md)
+		* [Import_EPW](text/components/Import_EPW.md)
+		* [Construct_Location](text/components/Construct_Location.md)
+		* [Deconstruct_Location](text/components/Deconstruct_Location.md)
+		* [Import_Location](text/components/Import_Location.md)
+	* [01 :: Analyze Weather Data](text/categories/01 _ Analyze Weather Data.md)
+		* [Analysis_Period](text/components/Analysis_Period.md)
+		* [Calculate_HOY](text/components/Calculate_HOY.md)
+	* [3 :: Extra](text/categories/3 _ Extra.md)
+		* [Color_Range](text/components/Color_Range.md)
+		* [Generate_Colors](text/components/Generate_Colors.md)
+		* [Legend_Parameters](text/components/Legend_Parameters.md)
