@@ -1,4 +1,4 @@
-## ![](../../images/icons/Analysis_Period.png) Analysis Period
+## ![](../../images/icons/Analysis_Period.png) Analysis Period - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/tree/master/plugin/grasshopper/src/LadybugPlus_Analysis%20Period.py)
 
 ![](../../images/components/Analysis_Period.png)
 

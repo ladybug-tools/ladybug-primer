@@ -1,4 +1,4 @@
-## ![](../../images/icons/Construct_Location.png) Construct Location
+## ![](../../images/icons/Construct_Location.png) Construct Location - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/tree/master/plugin/grasshopper/src/LadybugPlus_Construct%20Location.py)
 
 ![](../../images/components/Construct_Location.png)
 

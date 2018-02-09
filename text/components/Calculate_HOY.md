@@ -1,4 +1,4 @@
-## ![](../../images/icons/Calculate_HOY.png) Calculate HOY
+## ![](../../images/icons/Calculate_HOY.png) Calculate HOY - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/tree/master/plugin/grasshopper/src/LadybugPlus_Calculate%20HOY.py)
 
 ![](../../images/components/Calculate_HOY.png)
 

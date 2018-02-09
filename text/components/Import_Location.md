@@ -1,4 +1,4 @@
-## ![](../../images/icons/Import_Location.png) Import Location
+## ![](../../images/icons/Import_Location.png) Import Location - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/tree/master/plugin/grasshopper/src/LadybugPlus_Import%20Location.py)
 
 ![](../../images/components/Import_Location.png)
 

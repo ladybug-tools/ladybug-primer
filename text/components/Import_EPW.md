@@ -1,4 +1,4 @@
-## ![](../../images/icons/Import_EPW.png) Import EPW
+## ![](../../images/icons/Import_EPW.png) Import EPW - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/tree/master/plugin/grasshopper/src/LadybugPlus_Import%20EPW.py)
 
 ![](../../images/components/Import_EPW.png)
 
@@ -10,7 +10,7 @@ An .epw file path on your system as a string.
 
 #### Outputs
 * ##### report
-...
+The execution information, as output and error streams
 * ##### location
 A list of text summarizing the location data in the weather file (use this to construct the sun path).
 * ##### dryBulbTemperature
@@ -19,10 +19,10 @@ A list of text summarizing the location data in the weather file (use this to co
 "This is the hourly dew point temperature, in C. Note that this is a full numeric field (i.e. 23.6) and not an integer representation with tenths. Valid values range from 70 C to 70 C. Missing value for this field is 99.9."
 * ##### relativeHumidity
 "This is the hourly Relative Humidity in percent. Valid values range from 0% to 110%. Missing value for this field is 999."
-* ##### windDirection
-"This is the hourly Wind Direction in degrees where the convention is that North=0.0, East=90.0, South=180.0, West=270.0. (If wind is calm for the given hour, the direction equals zero.) Values can range from 0 to 360. Missing value is 999."
 * ##### windSpeed
 "This is the hourly wind speed in m/sec. Values can range from 0 to 40. Missing value is 999."
+* ##### windDirection
+"This is the hourly Wind Direction in degrees where the convention is that North=0.0, East=90.0, South=180.0, West=270.0. (If wind is calm for the given hour, the direction equals zero.) Values can range from 0 to 360. Missing value is 999."
 * ##### directNormalRadiation
 "This is the hourly Direct Normal Radiation in Wh/m2. (Amount of solar radiation in Wh/m2 received directly from the solar disk on a surface perpendicular to the sun's rays, during the number of minutes preceding the time indicated.) If the field is missing ( 9999) or invalid (<0), it is set to 0. Counts of such missing values are totaled and presented at the end of the runperiod."
 * ##### diffuseHorizontalRadiation

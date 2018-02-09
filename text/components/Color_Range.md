@@ -1,4 +1,4 @@
-## ![](../../images/icons/Color_Range.png) Color Range
+## ![](../../images/icons/Color_Range.png) Color Range - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/tree/master/plugin/grasshopper/src/LadybugPlus_Color%20Range.py)
 
 ![](../../images/components/Color_Range.png)
 

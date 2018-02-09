@@ -1,4 +1,4 @@
-## ![](../../images/icons/Legend_Parameters.png) Legend Parameters
+## ![](../../images/icons/Legend_Parameters.png) Legend Parameters - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/tree/master/plugin/grasshopper/src/LadybugPlus_Legend%20Parameters.py)
 
 ![](../../images/components/Legend_Parameters.png)
 

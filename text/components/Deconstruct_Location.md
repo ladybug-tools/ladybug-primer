@@ -1,4 +1,4 @@
-## ![](../../images/icons/Deconstruct_Location.png) Deconstruct Location
+## ![](../../images/icons/Deconstruct_Location.png) Deconstruct Location - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/tree/master/plugin/grasshopper/src/LadybugPlus_Deconstruct%20Location.py)
 
 ![](../../images/components/Deconstruct_Location.png)
 
