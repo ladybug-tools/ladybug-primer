@@ -1,18 +1,20 @@
-## ![](../../images/icons/Calculate_HOY.png) Calculate HOY - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/tree/master/plugin/grasshopper/src/LadybugPlus_Calculate%20HOY.py)
+## ![](../../images/icons/Calculate_HOY.png) Calculate HOY - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Calculate%20HOY.py)
 
 ![](../../images/components/Calculate_HOY.png)
 
-Calculate hour of the year. -
+Calculate hour of the year from month, day, hour, minute. 
+
+
 
 #### Inputs
-* ##### month [Default]
-Month (1-12).
-* ##### day [Default]
-Day (1-31).
-* ##### hour [Default]
-Hour (0-23).
-* ##### minute [Default]
-Minute (0-59).
+* ##### month 
+Integer for month (1-12). 
+* ##### day 
+Integer for day (1-31). 
+* ##### hour 
+Integer for hour (0-23). 
+* ##### minute 
+Integer for minute (0-59). 
 
 #### Outputs
 * ##### hoy
@@ -20,7 +22,4 @@ Hour of the year.
 * ##### doy
 Day of the year.
 * ##### date
-Human readable date.
-
-
-[Check Hydra Example Files for Calculate HOY](https://hydrashare.github.io/hydra/index.html?keywords=LadybugPlus_Calculate HOY)
+Human readable date time.

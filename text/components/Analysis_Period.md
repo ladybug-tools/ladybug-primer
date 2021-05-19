@@ -1,32 +1,31 @@
-## ![](../../images/icons/Analysis_Period.png) Analysis Period - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/tree/master/plugin/grasshopper/src/LadybugPlus_Analysis%20Period.py)
+## ![](../../images/icons/Analysis_Period.png) Analysis Period - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Analysis%20Period.py)
 
 ![](../../images/components/Analysis_Period.png)
 
-Analysis Period. -
+Create an Analysis Period to describe a slice of time during the year. 
+
+
 
 #### Inputs
-* ##### startMonth [Default]
-Start month (1-12).
-* ##### startDay [Default]
-Start day (1-31).
-* ##### startHour [Default]
-Start hour (0-23).
-* ##### endMonth [Default]
-End month (1-12).
-* ##### endDay [Default]
-End day (1-31).
-* ##### endHour [Default]
-End hour (0-23).
-* ##### timestep [Default]
-An integer number from 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60
+* ##### start_month 
+Start month (1-12). 
+* ##### start_day 
+Start day (1-31). 
+* ##### start_hour 
+Start hour (0-23). 
+* ##### end_month 
+End month (1-12). 
+* ##### end_day 
+End day (1-31). 
+* ##### end_hour 
+End hour (0-23). 
+* ##### timestep 
+An integer number for the number of time steps per hours. Acceptable inputs include: 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60 
 
 #### Outputs
-* ##### analysisPeriod
+* ##### period
 Analysis period.
 * ##### hoys
 List of dates in this analysis period.
 * ##### dates
 List of hours of the year in this analysis period.
-
-
-[Check Hydra Example Files for Analysis Period](https://hydrashare.github.io/hydra/index.html?keywords=LadybugPlus_Analysis Period)
