@@ -1,4 +1,5 @@
-## ![](../../images/icons/Solar_Envelope.png) Solar Envelope - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Solar%20Envelope.py)
+## Solar Envelope
+![](../../images/icons/Solar_Envelope.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Solar%20Envelope.py)
 
 ![](../../images/components/Solar_Envelope.png)
 
@@ -28,8 +29,8 @@ Set to "True" to run the component and get a solar envelope.
 
 #### Outputs
 * ##### report
-...
+... 
 * ##### points
-The grid of points above the test _geometry representing the height to which the solar envelope boundary reaches.
+The grid of points above the test _geometry representing the height to which the solar envelope boundary reaches. 
 * ##### mesh
-A mesh representing the solar envelope. For solar collections (the default), this represents the boundary above which the one will have direct solar access to all of the input _vectors. For solar rights envelopes, this represents the boundary below which one can build without shading the surrounding obstacles from any of the _vectors.
+A mesh representing the solar envelope. For solar collections (the default), this represents the boundary above which the one will have direct solar access to all of the input _vectors. For solar rights envelopes, this represents the boundary below which one can build without shading the surrounding obstacles from any of the _vectors. 

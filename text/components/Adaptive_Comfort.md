@@ -1,4 +1,5 @@
-## ![](../../images/icons/Adaptive_Comfort.png) Adaptive Comfort - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Adaptive%20Comfort.py)
+## Adaptive Comfort
+![](../../images/icons/Adaptive_Comfort.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Adaptive%20Comfort.py)
 
 ![](../../images/components/Adaptive_Comfort.png)
 
@@ -13,7 +14,13 @@ Note that, for fully conditioned buildings, the PMV thermal comfort model should
 #### Inputs
 * ##### out_temp [Required]
 Outdoor temperatures in one of the following formats: 
-1 - A Data Collection of prevailing outdoor temperature values in C. This Data Collection must align with the _air_temp or _mrt_ inputs and bear the PrevailingOutdoorTemperature data type in its header. 2 - A single prevailing outdoor temperature value in C to be used for all of the _air_temp or _mrt_ inputs. 3 - A Data Collection of outdoor dry bulb temperatures recorded over the entire year. This Data Collection must be continouous and must either be an Hourly Collection or Daily Collection. In the event that the input adapt_par_ has a _avgm_or_runmean_ set to True, Monthly collections are also acceptable here. Note that, because an annual input is required, this input collection does not have to align with the _air_temp or _mrt_ inputs. 
+
+
+    * A Data Collection of prevailing outdoor temperature values in C.This Data Collection must align with the _air_temp or _mrt_ inputs and bear the PrevailingOutdoorTemperature data type in its header. 
+
+    * A single prevailing outdoor temperature value in C to be usedfor all of the _air_temp or _mrt_ inputs. 
+
+    * A Data Collection of outdoor dry bulb temperatures recorded overthe entire year. This Data Collection must be continouous and must either be an Hourly Collection or Daily Collection. In the event that the input adapt_par_ has a _avgm_or_runmean_ set to True, Monthly collections are also acceptable here. Note that, because an annual input is required, this input collection does not have to align with the _air_temp or _mrt_ inputs. 
 * ##### air_temp [Required]
 Data Collection or individual value of air temperature in C. 
 * ##### mrt 
@@ -27,16 +34,28 @@ Set to True to run the component.
 
 #### Outputs
 * ##### report
-Reports, errors, warnings, etc.
+Reports, errors, warnings, etc. 
 * ##### prevail_temp
-Data Collection of prevailing outdoor temperature in degrees C.
+Data Collection of prevailing outdoor temperature in degrees C. 
 * ##### neutral_temp
-Data Collection of the desired neutral temperature in degrees C.
+Data Collection of the desired neutral temperature in degrees C. 
 * ##### deg_neutral
-Data Collection of the degrees from desired neutral temperature in degrees C.
+Data Collection of the degrees from desired neutral temperature in degrees C. 
 * ##### comfort
-Integers noting whether the input conditions are acceptable according to the assigned comfort_parameter. _ Values are one of the following: 0 = uncomfortable 1 = comfortable
+Integers noting whether the input conditions are acceptable according to the assigned comfort_parameter. 
+Values are one of the following: 
+
+    * 0 = uncomfortable
+
+    * 1 = comfortable
 * ##### condition
-Integers noting the thermal status of a subject according to the assigned comfort_parameter. _ Values are one of the following: -1 = cold 0 = netural +1 = hot
+Integers noting the thermal status of a subject according to the assigned comfort_parameter. 
+Values are one of the following: 
+
+    * -1 = cold
+
+    *  0 = netural
+
+    * +1 = hot
 * ##### comf_obj
-A Python object containing all inputs and results of the analysis.  This can be plugged into components like the "Comfort Statistics" component to get further information.
+A Python object containing all inputs and results of the analysis.  This can be plugged into components like the "Comfort Statistics" component to get further information. 

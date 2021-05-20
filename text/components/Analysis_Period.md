@@ -1,4 +1,5 @@
-## ![](../../images/icons/Analysis_Period.png) Analysis Period - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Analysis%20Period.py)
+## Analysis Period
+![](../../images/icons/Analysis_Period.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Analysis%20Period.py)
 
 ![](../../images/components/Analysis_Period.png)
 
@@ -24,8 +25,8 @@ An integer number for the number of time steps per hours. Acceptable inputs incl
 
 #### Outputs
 * ##### period
-Analysis period.
+Analysis period. 
 * ##### hoys
-List of dates in this analysis period.
+List of dates in this analysis period. 
 * ##### dates
-List of hours of the year in this analysis period.
+List of hours of the year in this analysis period. 

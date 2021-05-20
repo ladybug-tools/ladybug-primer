@@ -1,4 +1,5 @@
-## ![](../../images/icons/Hourly_Plot.png) Hourly Plot - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Hourly%20Plot.py)
+## Hourly Plot
+![](../../images/icons/Hourly_Plot.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Hourly%20Plot.py)
 
 ![](../../images/components/Hourly_Plot.png)
 
@@ -30,14 +31,14 @@ A Ladybug analysis period to be applied to all of the input _data.
 
 #### Outputs
 * ##### report
-...
+... 
 * ##### mesh
-A colored mesh derived from the input _data. Multiple meshes will be output for several data collections are input.
+A colored mesh derived from the input _data. Multiple meshes will be output for several data collections are input. 
 * ##### legend
-Geometry representing the legend for each mesh.
+Geometry representing the legend for each mesh. 
 * ##### borders
-A list of lines and polylines representing different time intervals of the plot.
+A list of lines and polylines representing different time intervals of the plot. 
 * ##### labels
-A list of text objects that label the borders with the time intervals that they demarcate.
+A list of text objects that label the borders with the time intervals that they demarcate. 
 * ##### title
-A text object for the global_title.
+A text object for the global_title. 

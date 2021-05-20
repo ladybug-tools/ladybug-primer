@@ -1,4 +1,5 @@
-## ![](../../images/icons/Download_Weather.png) Download Weather - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Download%20Weather.py)
+## Download Weather
+![](../../images/icons/Download_Weather.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Download%20Weather.py)
 
 ![](../../images/components/Download_Weather.png)
 
@@ -14,8 +15,8 @@ An optional file path to a directory into which the weather file will be downloa
 
 #### Outputs
 * ##### epw_file
-The file path of the downloaded epw file.
+The file path of the downloaded epw file. 
 * ##### stat_file
-The file path of the downloaded stat file.
+The file path of the downloaded stat file. 
 * ##### ddy_file
-The file path of the downloaded ddy file.
+The file path of the downloaded ddy file. 

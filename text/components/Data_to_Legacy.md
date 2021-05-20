@@ -1,4 +1,5 @@
-## ![](../../images/icons/Data_to_Legacy.png) Data to Legacy - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Data%20to%20Legacy.py)
+## Data to Legacy
+![](../../images/icons/Data_to_Legacy.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Data%20to%20Legacy.py)
 
 ![](../../images/components/Data_to_Legacy.png)
 
@@ -14,4 +15,4 @@ A Ladybug DataCollection object.
 
 #### Outputs
 * ##### data
-A Ladybug Legacy list with meatadata and values.
+A Ladybug Legacy list with meatadata and values. 

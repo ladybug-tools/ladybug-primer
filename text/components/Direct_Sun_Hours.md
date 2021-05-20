@@ -1,4 +1,5 @@
-## ![](../../images/icons/Direct_Sun_Hours.png) Direct Sun Hours - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Direct%20Sun%20Hours.py)
+## Direct Sun Hours
+![](../../images/icons/Direct_Sun_Hours.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Direct%20Sun%20Hours.py)
 
 ![](../../images/components/Direct_Sun_Hours.png)
 
@@ -32,16 +33,16 @@ Set to "True" to run the component and perform direct sun analysis.
 
 #### Outputs
 * ##### report
-...
+... 
 * ##### points
-The grid of points on the test _geometry that are be used to perform the direct sun analysis.
+The grid of points on the test _geometry that are be used to perform the direct sun analysis. 
 * ##### results
-A list of numbers that aligns with the points. Each number indicates the number of hours of direct sunlight received by each of the points.  Note that is is the number of hours out of the total number of connected _vectors.
+A list of numbers that aligns with the points. Each number indicates the number of hours of direct sunlight received by each of the points.  Note that is is the number of hours out of the total number of connected _vectors. 
 * ##### mesh
-A colored mesh of the test _geometry representing the hours of direct sunlight received by this input _geometry
+A colored mesh of the test _geometry representing the hours of direct sunlight received by this input _geometry 
 * ##### legend
-A legend showing the number of hours that correspond to the colors of the mesh.
+A legend showing the number of hours that correspond to the colors of the mesh. 
 * ##### title
-A text object for the study title.
+A text object for the study title. 
 * ##### int_mtx
-A Matrix object that can be connected to the "LB Deconstruct Matrix" component to obtain detailed vector-by-vector results of the study. Each sub-list of the matrix (aka. branch of the Data Tree) represents one of the points used for analysis. The length of each sub-list matches the number of _vectors used for the analysis. Each value in the sub-list is either a "1", indicating that the sun is visible for that vector, or a "0", indicating that the sun is not visible for that vector.
+A Matrix object that can be connected to the "LB Deconstruct Matrix" component to obtain detailed vector-by-vector results of the study. Each sub-list of the matrix (aka. branch of the Data Tree) represents one of the points used for analysis. The length of each sub-list matches the number of _vectors used for the analysis. Each value in the sub-list is either a "1", indicating that the sun is visible for that vector, or a "0", indicating that the sun is not visible for that vector. 

@@ -1,4 +1,5 @@
-## ![](../../images/icons/Degree_Days.png) Degree Days - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Degree%20Days.py)
+## Degree Days
+![](../../images/icons/Degree_Days.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Degree%20Days.py)
 
 ![](../../images/components/Degree_Days.png)
 
@@ -16,10 +17,10 @@ A number for the base temperature above which a given hour is considered to be i
 
 #### Outputs
 * ##### hourly_heat
-A data collection of heating degree-days. Plug this into the 'Time Interval Operation' component to get the number of degree-days at different time intervals.
+A data collection of heating degree-days. Plug this into the 'Time Interval Operation' component to get the number of degree-days at different time intervals. 
 * ##### hourly_cool
-A data collection of cooling degree-days. Plug this into the 'Time Interval Operation' component to get the number of degree-days at different time intervals.
+A data collection of cooling degree-days. Plug this into the 'Time Interval Operation' component to get the number of degree-days at different time intervals. 
 * ##### heat_deg_days
-A value indicating the total number of heating degree-days over the entire input _dry_bulb collection.
+A value indicating the total number of heating degree-days over the entire input _dry_bulb collection. 
 * ##### cool_deg_days
-A value indicating the total number of cooling degree-days over the entire input _dry_bulb collection.
+A value indicating the total number of cooling degree-days over the entire input _dry_bulb collection. 

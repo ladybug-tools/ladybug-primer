@@ -1,4 +1,5 @@
-## ![](../../images/icons/Legend_Parameters.png) Legend Parameters - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Legend%20Parameters.py)
+## Legend Parameters
+![](../../images/icons/Legend_Parameters.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Legend%20Parameters.py)
 
 ![](../../images/components/Legend_Parameters.png)
 
@@ -38,4 +39,4 @@ An optional text string to specify the font to be used for the text. Examples in
 
 #### Outputs
 * ##### leg_par
-A legend parameter object that can be plugged into any of the Ladybug components with a legend.
+A legend parameter object that can be plugged into any of the Ladybug components with a legend. 

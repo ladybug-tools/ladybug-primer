@@ -1,4 +1,5 @@
-## ![](../../images/icons/Construct_Header.png) Construct Header - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Construct%20Header.py)
+## Construct Header
+![](../../images/icons/Construct_Header.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Construct%20Header.py)
 
 ![](../../images/components/Construct_Header.png)
 
@@ -19,4 +20,4 @@ Optional metadata to be associated with the Header. The input should be a list o
 
 #### Outputs
 * ##### header
-A Ladybug Header object.
+A Ladybug Header object. 

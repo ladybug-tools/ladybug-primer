@@ -1,4 +1,5 @@
-## ![](../../images/icons/Apply_Conditional_Statement.png) Apply Conditional Statement - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Apply%20Conditional%20Statement.py)
+## Apply Conditional Statement
+![](../../images/icons/Apply_Conditional_Statement.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Apply%20Conditional%20Statement.py)
 
 ![](../../images/components/Apply_Conditional_Statement.png)
 
@@ -18,4 +19,4 @@ For example, if three data collections are connected to _data and the following 
 
 #### Outputs
 * ##### data
-A list of Data Collections that have been filtered by the statement_.
+A list of Data Collections that have been filtered by the statement_. 

@@ -1,4 +1,5 @@
-## ![](../../images/icons/Indoor_Solar_MRT.png) Indoor Solar MRT - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Indoor%20Solar%20MRT.py)
+## Indoor Solar MRT
+![](../../images/icons/Indoor_Solar_MRT.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Indoor%20Solar%20MRT.py)
 
 ![](../../images/components/Indoor_Solar_MRT.png)
 
@@ -32,10 +33,10 @@ Set to True to run the component.
 
 #### Outputs
 * ##### report
-Reports, errors, warnings, etc.
+Reports, errors, warnings, etc. 
 * ##### erf
-Data collection of effective radiant field (ERF) in W/m2.
+Data collection of effective radiant field (ERF) in W/m2. 
 * ##### dmrt
-Data collection of mean radiant temperature delta in C.
+Data collection of mean radiant temperature delta in C. 
 * ##### mrt
-Data collection of mean radiant temperature in C.
+Data collection of mean radiant temperature in C. 

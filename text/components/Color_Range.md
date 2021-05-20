@@ -1,4 +1,5 @@
-## ![](../../images/icons/Color_Range.png) Color Range - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Color%20Range.py)
+## Color Range
+![](../../images/icons/Color_Range.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Color%20Range.py)
 
 ![](../../images/components/Color_Range.png)
 
@@ -14,4 +15,4 @@ An index refering to one of the following possible gradients: 0 - Orignal Ladybu
 
 #### Outputs
 * ##### colors
-A series of colors to be plugged into the "LB Legend Parameters" component.
+A series of colors to be plugged into the "LB Legend Parameters" component. 

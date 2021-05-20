@@ -1,4 +1,5 @@
-## ![](../../images/icons/Wind_Rose.png) Wind Rose - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Wind%20Rose.py)
+## Wind Rose
+![](../../images/icons/Wind_Rose.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Wind%20Rose.py)
 
 ![](../../images/components/Wind_Rose.png)
 
@@ -38,26 +39,26 @@ An optional Ladybug analysis period to be applied to all of the input data.
 
 #### Outputs
 * ##### report
-...
+... 
 * ##### mesh
-A colored mesh representing the wind rose derived from the input data. Multiple meshes will be output for several data collections are input.
+A colored mesh representing the wind rose derived from the input data. Multiple meshes will be output for several data collections are input. 
 * ##### compass
-A set of circles, lines and text objects that mark the cardinal directions in relation to the wind rose.
+A set of circles, lines and text objects that mark the cardinal directions in relation to the wind rose. 
 * ##### orient_line
-Line geometries representing the edges (or "spokes") of the wind rose directions.
+Line geometries representing the edges (or "spokes") of the wind rose directions. 
 * ##### freq_line
-Polygon geometries representing the frequency intervals of the wind rose.
+Polygon geometries representing the frequency intervals of the wind rose. 
 * ##### windrose_line
-Polygon geometries representing the windrose outlines. This output is hidden by default and should be connected to a native Grasshopper Geometry component in order to be visualized.
+Polygon geometries representing the windrose outlines. This output is hidden by default and should be connected to a native Grasshopper Geometry component in order to be visualized. 
 * ##### legend
-Geometry representing the legend for the wind rose.
+Geometry representing the legend for the wind rose. 
 * ##### title
-A text object for the global_title.
+A text object for the global_title. 
 * ##### prevailing
-The predominant direction of the outpt wind rose in clockwise degrees from north. 0 is North, 90 is East, 180 is South, 270 is West.
+The predominant direction of the outpt wind rose in clockwise degrees from north. 0 is North, 90 is East, 180 is South, 270 is West. 
 * ##### angles
-A list of angles corresponding to each windrose directions.
+A list of angles corresponding to each windrose directions. 
 * ##### calm_hours
-The number of hours with calm wind speeds. Only returns a value if the input  _data is wind speed.
+The number of hours with calm wind speeds. Only returns a value if the input  _data is wind speed. 
 * ##### histogram
-The input _data in a histogram structure after it has gone through any of  the statement or period operations input to this component.
+The input _data in a histogram structure after it has gone through any of  the statement or period operations input to this component. 

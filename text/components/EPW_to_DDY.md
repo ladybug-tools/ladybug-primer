@@ -1,4 +1,5 @@
-## ![](../../images/icons/EPW_to_DDY.png) EPW to DDY - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20EPW%20to%20DDY.py)
+## EPW to DDY
+![](../../images/icons/EPW_to_DDY.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20EPW%20to%20DDY.py)
 
 ![](../../images/components/EPW_to_DDY.png)
 
@@ -22,4 +23,4 @@ Set to "True" to write the .ddy file.
 
 #### Outputs
 * ##### ddy_file
-A .ddy file path that has been written to your system.
+A .ddy file path that has been written to your system. 

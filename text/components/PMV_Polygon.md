@@ -1,4 +1,5 @@
-## ![](../../images/icons/PMV_Polygon.png) PMV Polygon - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20PMV%20Polygon.py)
+## PMV Polygon
+![](../../images/icons/PMV_Polygon.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20PMV%20Polygon.py)
 
 ![](../../images/components/PMV_Polygon.png)
 
@@ -32,18 +33,21 @@ An annual hourly continuous data collection of irradiance (or radiation) in W/m2
 
 #### Outputs
 * ##### report
-...
+... 
 * ##### total_comfort
-The percent of the data on the psychrometric chart that are inside all comfort and passive strategy polygons.
+The percent of the data on the psychrometric chart that are inside all comfort and passive strategy polygons. 
 * ##### total_comf_data
-Data collection or a 0/1 value noting whether each of the data points on the psychrometric chart lies inside of a comfort polygon or a strategy polygon. _ This can be connected to the "LB Create Legend" component to generate a list of colors that can be used to color the points output from "LB Psychrometric Chart" component to see exactly which points are comfortable and which are not. _ Values are one of the following: 0 = uncomfortable 1 = comfortable
+Data collection or a 0/1 value noting whether each of the data points on the psychrometric chart lies inside of a comfort polygon or a strategy polygon. 
+This can be connected to the "LB Create Legend" component to generate a list of colors that can be used to color the points output from "LB Psychrometric Chart" component to see exactly which points are comfortable and which are not. 
+Values are one of the following: 0 = uncomfortable 1 = comfortable 
 * ##### polygon_names
-A list of names for each of the polygons. This will include both the comfort polygons and the passive strategy polygons. The order of these names correspondsto the total_strategies and strategies_data outputs.
+A list of names for each of the polygons. This will include both the comfort polygons and the passive strategy polygons. The order of these names correspondsto the total_strategies and strategies_data outputs. 
 * ##### polygon_comfort
-The percent of the input data that are in each of the comfort or passive strategy polygons. Each number here corresponds to the names in the polygon_names output above.
+The percent of the input data that are in each of the comfort or passive strategy polygons. Each number here corresponds to the names in the polygon_names output above. 
 * ##### polygon_data
-A list of data collections or 0/1 values indicating whether each  of the data points on the psychrometric chart lies inside each of the comfort or a strategy polygons. Each data collection or here corresponds to the names in the polygon_names output above. _ Values are one of the following: 0 = uncomfortable 1 = comfortable
+A list of data collections or 0/1 values indicating whether each  of the data points on the psychrometric chart lies inside each of the comfort or a strategy polygons. Each data collection or here corresponds to the names in the polygon_names output above. 
+Values are one of the following: 0 = uncomfortable 1 = comfortable 
 * ##### comfort_poly
-Brep representing the range of comfort for the input mrt, air speed, metabolic rate and clothing level. IF multiple values have been input, multiple polygons will be output here.
+Brep representing the range of comfort for the input mrt, air speed, metabolic rate and clothing level. IF multiple values have been input, multiple polygons will be output here. 
 * ##### strategy_poly
-Brep representing the area of the chart made comfortable by any input passive strategies. If multiple strategies have been input to the strategies_ input, multiple polygons will be output here.
+Brep representing the area of the chart made comfortable by any input passive strategies. If multiple strategies have been input to the strategies_ input, multiple polygons will be output here. 

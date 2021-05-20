@@ -1,4 +1,5 @@
-## ![](../../images/icons/Import_Location.png) Import Location - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Import%20Location.py)
+## Import Location
+![](../../images/icons/Import_Location.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Import%20Location.py)
 
 ![](../../images/components/Import_Location.png)
 
@@ -12,4 +13,4 @@ An epw file path on your system as a string.
 
 #### Outputs
 * ##### location
-Location data (use this output to construct the sun path).
+Location data (use this output to construct the sun path). 

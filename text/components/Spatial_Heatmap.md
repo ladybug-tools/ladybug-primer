@@ -1,4 +1,5 @@
-## ![](../../images/icons/Spatial_Heatmap.png) Spatial Heatmap - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Spatial%20Heatmap.py)
+## Spatial Heatmap
+![](../../images/icons/Spatial_Heatmap.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Spatial%20Heatmap.py)
 
 ![](../../images/components/Spatial_Heatmap.png)
 
@@ -24,12 +25,12 @@ A text string to label the entire mesh.  It will be displayed in the lower left 
 
 #### Outputs
 * ##### mesh
-The input _mesh that has been colored with results.
+The input _mesh that has been colored with results. 
 * ##### legend
-Geometry representing the legend for the mesh.
+Geometry representing the legend for the mesh. 
 * ##### title
-A text object for the global_title.
+A text object for the global_title. 
 * ##### colors
-The colors associated with each input value.
+The colors associated with each input value. 
 * ##### legend_par
-The input legend parameters with defaults filled for unset properties.
+The input legend parameters with defaults filled for unset properties. 

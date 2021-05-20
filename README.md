@@ -1,6 +1,6 @@
 # ladybug-primer
 
-<img src="https://github.com/ladybug-tools/artwork/raw/master/icons_bugs/png/ladybug.png" alt="Ladybug" width="200"/>
+![Ladybug](https://github.com/ladybug-tools/artwork/raw/master/icons_bugs/grasshopper_tabs/small/Ladybug.png)
 
 This primer provides an overview of the Ladybug components for Grasshopper.
 
@@ -24,5 +24,3 @@ repository for source code.
 
 Please [let us know](https://github.com/ladybug-tools/ladybug-grasshopper/issues)
 if you find any mistakes in grammar or spelling in this primer and we will gladly fix them.
-
-*Follow ladybug tools on [twitter](https://twitter.com/ladybug_tools) or [facebook](https://www.facebook.com/LadybugTools/).*

@@ -1,4 +1,5 @@
-## ![](../../images/icons/Deconstruct_Data.png) Deconstruct Data - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Deconstruct%20Data.py)
+## Deconstruct Data
+![](../../images/icons/Deconstruct_Data.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Deconstruct%20Data.py)
 
 ![](../../images/components/Deconstruct_Data.png)
 
@@ -12,6 +13,6 @@ A Ladybug DataCollection object.
 
 #### Outputs
 * ##### header
-The header of the DataCollection (containing metadata).
+The header of the DataCollection (containing metadata). 
 * ##### values
-The numerical values of the DataCollection.
+The numerical values of the DataCollection. 

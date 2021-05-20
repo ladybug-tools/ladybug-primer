@@ -1,4 +1,5 @@
-## ![](../../images/icons/Deconstruct_Matrix.png) Deconstruct Matrix - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Deconstruct%20Matrix.py)
+## Deconstruct Matrix
+![](../../images/icons/Deconstruct_Matrix.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Deconstruct%20Matrix.py)
 
 ![](../../images/components/Deconstruct_Matrix.png)
 
@@ -12,4 +13,4 @@ A Ladybug Matrix object such as the intersection matrices output from any of the
 
 #### Outputs
 * ##### values
-The numerical values of the matrix as a Grasshopper Data Tree.
+The numerical values of the matrix as a Grasshopper Data Tree. 

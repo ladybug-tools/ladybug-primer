@@ -1,4 +1,5 @@
-## ![](../../images/icons/Cumulative_Sky_Matrix.png) Cumulative Sky Matrix - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Cumulative%20Sky%20Matrix.py)
+## Cumulative Sky Matrix
+![](../../images/icons/Cumulative_Sky_Matrix.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Cumulative%20Sky%20Matrix.py)
 
 ![](../../images/components/Cumulative_Sky_Matrix.png)
 
@@ -28,6 +29,6 @@ The folder in which the Radiance commands are executed to produce the sky matrix
 
 #### Outputs
 * ##### report
-...
+... 
 * ##### sky_mtx
-A sky matrix object containing the radiation coming from each patch of the sky. This can be used for a radiation study, a radition rose, or a sky dome visualization. It can also be deconstructed into its individual values with the "LB Deconstruct Matrix" component.
+A sky matrix object containing the radiation coming from each patch of the sky. This can be used for a radiation study, a radition rose, or a sky dome visualization. It can also be deconstructed into its individual values with the "LB Deconstruct Matrix" component. 

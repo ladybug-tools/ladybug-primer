@@ -1,4 +1,5 @@
-## ![](../../images/icons/Arithmetic_Operation.png) Arithmetic Operation - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Arithmetic%20Operation.py)
+## Arithmetic Operation
+![](../../images/icons/Arithmetic_Operation.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Arithmetic%20Operation.py)
 
 ![](../../images/components/Arithmetic_Operation.png)
 
@@ -22,4 +23,4 @@ Optional text for a new "type" key in the Data Collection's metadata. This will 
 
 #### Outputs
 * ##### data
-A Ladybug data collection object derived from the operation between the two data inputs.
+A Ladybug data collection object derived from the operation between the two data inputs. 
