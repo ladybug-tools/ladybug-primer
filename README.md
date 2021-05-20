@@ -20,7 +20,5 @@ Post your questions to [Ladybug Tools forum](http://discourse.ladybug.tools) and
 see the [ladybug-grasshopper](https://github.com/ladybug-tools/ladybug-grasshopper)
 repository for source code.
 
-### Feedback
-
 Please [let us know](https://github.com/ladybug-tools/ladybug-grasshopper/issues)
 if you find any mistakes in grammar or spelling in this primer and we will gladly fix them.
