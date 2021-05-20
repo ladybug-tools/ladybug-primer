@@ -1,11 +1,13 @@
 ## PMV Comfort Parameters
-![](../../images/icons/PMV_Comfort_Parameters.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20PMV%20Comfort%20Parameters.py)
 
 ![](../../images/components/PMV_Comfort_Parameters.png)
 
-Create a set of parameters that define the acceptable conditions of the Predicted Mean Vote (PMV) thermal comfort model. 
+![](../../images/icons/PMV_Comfort_Parameters.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20PMV%20Comfort%20Parameters.py)
 
-These parameters can be plugged into any of the components that compute PMV thermal comfort. 
+
+Create a set of parameters that define the acceptable conditions of the Predicted Mean Vote (PMV) thermal comfort model. 
+
+These parameters can be plugged into any of the components that compute PMV thermal comfort. 
 
 
 

@@ -1,11 +1,13 @@
 ## Adaptive Comfort Parameters
-![](../../images/icons/Adaptive_Comfort_Parameters.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Adaptive%20Comfort%20Parameters.py)
 
 ![](../../images/components/Adaptive_Comfort_Parameters.png)
 
-Create a set of parameters that define the acceptable conditions of the Adaptive thermal comfort model. 
+![](../../images/icons/Adaptive_Comfort_Parameters.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Adaptive%20Comfort%20Parameters.py)
 
-These parameters can be plugged into any of the components that compute Adaptive thermal comfort. 
+
+Create a set of parameters that define the acceptable conditions of the Adaptive thermal comfort model. 
+
+These parameters can be plugged into any of the components that compute Adaptive thermal comfort. 
 
 
 

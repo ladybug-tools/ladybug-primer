@@ -1,11 +1,13 @@
 ## Legend Parameters
-![](../../images/icons/Legend_Parameters.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Legend%20Parameters.py)
 
 ![](../../images/components/Legend_Parameters.png)
 
-Use this component to change the colors, numerical range, and/or number of divisions of any Ladybug legend along with the corresponding colored mesh that the legend refers to. 
+![](../../images/icons/Legend_Parameters.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Legend%20Parameters.py)
 
-Any Ladybug component that outputs a colored mesh and a legend will have an input that can accept Legend Parameters from this component. 
+
+Use this component to change the colors, numerical range, and/or number of divisions of any Ladybug legend along with the corresponding colored mesh that the legend refers to. 
+
+Any Ladybug component that outputs a colored mesh and a legend will have an input that can accept Legend Parameters from this component. 
 
 
 

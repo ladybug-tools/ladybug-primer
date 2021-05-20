@@ -1,9 +1,11 @@
 ## Calculate HOY
-![](../../images/icons/Calculate_HOY.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Calculate%20HOY.py)
 
 ![](../../images/components/Calculate_HOY.png)
 
-Calculate hour of the year from month, day, hour, minute. 
+![](../../images/icons/Calculate_HOY.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Calculate%20HOY.py)
+
+
+Calculate hour of the year from month, day, hour, minute. 
 
 
 

@@ -1,11 +1,13 @@
 ## Convert to Timestep
-![](../../images/icons/Convert_to_Timestep.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Convert%20to%20Timestep.py)
 
 ![](../../images/components/Convert_to_Timestep.png)
 
-Convert a hourly Ladybug data collection to a continuous collection at a specific timestep. 
+![](../../images/icons/Convert_to_Timestep.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Convert%20to%20Timestep.py)
 
-This will be done either through linear interpolation or by culling out values that do not fit the timestep.  It can also be used to convert a discontinous data collection to a continuous one by linearly interpolating over holes in the data set. 
+
+Convert a hourly Ladybug data collection to a continuous collection at a specific timestep. 
+
+This will be done either through linear interpolation or by culling out values that do not fit the timestep.  It can also be used to convert a discontinous data collection to a continuous one by linearly interpolating over holes in the data set. 
 
 
 

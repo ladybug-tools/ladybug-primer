@@ -1,11 +1,13 @@
 ## Solar Body Parameters
-![](../../images/icons/Solar_Body_Parameters.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Solar%20Body%20Parameters.py)
 
 ![](../../images/components/Solar_Body_Parameters.png)
 
-Create a set of parameters that define the characteristics of a human in relation to the sun that falls on them. 
+![](../../images/icons/Solar_Body_Parameters.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Solar%20Body%20Parameters.py)
 
-These parameters can be plugged into any of the components that estimate mean radiant temperature (MRT) deltas as a result of being in the sun. 
+
+Create a set of parameters that define the characteristics of a human in relation to the sun that falls on them. 
+
+These parameters can be plugged into any of the components that estimate mean radiant temperature (MRT) deltas as a result of being in the sun. 
 
 
 

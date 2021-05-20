@@ -1,11 +1,13 @@
 ## Legend Parameters Categorized
-![](../../images/icons/Legend_Parameters_Categorized.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Legend%20Parameters%20Categorized.py)
 
 ![](../../images/components/Legend_Parameters_Categorized.png)
 
-Use this component to change the colors, range, and display of any Ladybug legend along with the corresponding colored mesh that the legend refers to. 
+![](../../images/icons/Legend_Parameters_Categorized.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Legend%20Parameters%20Categorized.py)
 
-The legend parameters from this component have more limitations than the normal Legend Parameters. However, these legend parameters will do auto-categorization of data, binning values into groups based on custom ranges. 
+
+Use this component to change the colors, range, and display of any Ladybug legend along with the corresponding colored mesh that the legend refers to. 
+
+The legend parameters from this component have more limitations than the normal Legend Parameters. However, these legend parameters will do auto-categorization of data, binning values into groups based on custom ranges. 
 
 
 

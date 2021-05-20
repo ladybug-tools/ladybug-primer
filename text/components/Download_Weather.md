@@ -1,9 +1,11 @@
 ## Download Weather
-![](../../images/icons/Download_Weather.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Download%20Weather.py)
 
 ![](../../images/components/Download_Weather.png)
 
-Automatically download a .zip file from a URL where climate data resides, unzip the file, and open .epw, .stat, and ddy weather files. 
+![](../../images/icons/Download_Weather.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Download%20Weather.py)
+
+
+Automatically download a .zip file from a URL where climate data resides, unzip the file, and open .epw, .stat, and ddy weather files. 
 
 
 

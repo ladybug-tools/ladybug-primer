@@ -1,11 +1,13 @@
 ## Time Rate of Change
-![](../../images/icons/Time_Rate_of_Change.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Time%20Rate%20of%20Change.py)
 
 ![](../../images/components/Time_Rate_of_Change.png)
 
-Convert a DataCollection of time-aggregated values to time rate of change units. 
+![](../../images/icons/Time_Rate_of_Change.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Time%20Rate%20of%20Change.py)
 
-For example, if the collection has an Energy data type in kWh, this method will return a collection with an Power data type in W. 
+
+Convert a DataCollection of time-aggregated values to time rate of change units. 
+
+For example, if the collection has an Energy data type in kWh, this method will return a collection with an Power data type in W. 
 
 
 

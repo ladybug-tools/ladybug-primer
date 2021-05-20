@@ -1,13 +1,15 @@
 ## Versioner
-![](../../images/icons/Versioner.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Versioner.py)
 
 ![](../../images/components/Versioner.png)
 
-This component updates the Ladybug Tools core libraries and grasshopper components to either the latest development version available (default) or to a specific version of the grasshopper plugin. 
+![](../../images/icons/Versioner.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Versioner.py)
 
-The input version_ does not need to be newer than the current installation and can be older but grasshopper plugin versions less than 0.3.0 are not supported. A list of all versions of the Grasshopper plugin and corresponding release notes can be found at: https://github.com/ladybug-tools/lbt-grasshopper/releases 
 
-This component can also overwrite the user libraries of standards (constructions, schedules, modifiers) with a completely fresh copy if clean_standards_ is set to True. 
+This component updates the Ladybug Tools core libraries and grasshopper components to either the latest development version available (default) or to a specific version of the grasshopper plugin. 
+
+The input version_ does not need to be newer than the current installation and can be older but grasshopper plugin versions less than 0.3.0 are not supported. A list of all versions of the Grasshopper plugin and corresponding release notes can be found at: https://github.com/ladybug-tools/lbt-grasshopper/releases 
+
+This component can also overwrite the user libraries of standards (constructions, schedules, modifiers) with a completely fresh copy if clean_standards_ is set to True. 
 
 
 

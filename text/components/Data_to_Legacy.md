@@ -1,11 +1,13 @@
 ## Data to Legacy
-![](../../images/icons/Data_to_Legacy.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Data%20to%20Legacy.py)
 
 ![](../../images/components/Data_to_Legacy.png)
 
-Convert a Ladybug DataCollection into its Ladybug Legacy format. 
+![](../../images/icons/Data_to_Legacy.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Data%20to%20Legacy.py)
 
-Note that this component is intended to be temporary as people transition from Ladybug Legacy to Ladybug[+]. 
+
+Convert a Ladybug DataCollection into its Ladybug Legacy format. 
+
+Note that this component is intended to be temporary as people transition from Ladybug Legacy to Ladybug[+]. 
 
 
 

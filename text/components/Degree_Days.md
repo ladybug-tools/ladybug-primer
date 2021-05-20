@@ -1,9 +1,11 @@
 ## Degree Days
-![](../../images/icons/Degree_Days.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Degree%20Days.py)
 
 ![](../../images/components/Degree_Days.png)
 
-Calculate humidity metrics from relative humidity, dry bulb temperature and (if present) atmospheric pressure. 
+![](../../images/icons/Degree_Days.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Degree%20Days.py)
+
+
+Calculate humidity metrics from relative humidity, dry bulb temperature and (if present) atmospheric pressure. 
 
 
 

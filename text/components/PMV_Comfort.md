@@ -1,11 +1,13 @@
 ## PMV Comfort
-![](../../images/icons/PMV_Comfort.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20PMV%20Comfort.py)
 
 ![](../../images/components/PMV_Comfort.png)
 
-Calculate Predicted Mean Vote (PMV). 
+![](../../images/icons/PMV_Comfort.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20PMV%20Comfort.py)
 
-PMV is a thermal comfort model for use on the interior of buildings where a heating or cooling system is operational. Note that, for naturally ventilated buildings, the Adaptive thermal comfort model should be used. 
+
+Calculate Predicted Mean Vote (PMV). 
+
+PMV is a thermal comfort model for use on the interior of buildings where a heating or cooling system is operational. Note that, for naturally ventilated buildings, the Adaptive thermal comfort model should be used. 
 
 
 
@@ -21,7 +23,6 @@ Data Collection or individual of air speed values in m/s. Default is a very low 
 * ##### met_rate 
 Data Collection or individual value of metabolic rate in met. Default is set to 1.1 met for seated, typing. Typical values include the following. 
 
-
     * 1 met = Metabolic rate of a resting seated person
 
     * 1.2 met = Metabolic rate of a standing person
@@ -29,7 +30,6 @@ Data Collection or individual value of metabolic rate in met. Default is set to 
     * 2.4 met = Metabolic rate of a person walking at ~1 m/s (2 mph)
 * ##### clothing 
 Data Collection or individual value of clothing insulation in clo. Default is set to 0.7 clo for long sleeve shirt and pants. Typical values include the following. 
-
 
     * 1 clo = Three-piece suit
 
@@ -79,14 +79,13 @@ Values are one of the following:
 Integers noting the thermal status of a subject according to the assigned comfort_parameter. 
 Values are one of the following: 
 
+    * -2 = too dry (but thermally neutral)
+
     * -1 = cold
 
     *  0 = netural
 
     * +1 = hot
-Additionally, if pmv_par_ are connected with humidity ratio lmits, the following values may also be included: 
-
-    * -2 = too dry (but thermally neutral)
 
     * +2 = too humid (but thermally neutral)
 * ##### heat_loss

@@ -1,9 +1,11 @@
 ## Analysis Period
-![](../../images/icons/Analysis_Period.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Analysis%20Period.py)
 
 ![](../../images/components/Analysis_Period.png)
 
-Create an Analysis Period to describe a slice of time during the year. 
+![](../../images/icons/Analysis_Period.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Analysis%20Period.py)
+
+
+Create an Analysis Period to describe a slice of time during the year. 
 
 
 

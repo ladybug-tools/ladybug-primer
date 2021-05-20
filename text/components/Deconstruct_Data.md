@@ -1,9 +1,11 @@
 ## Deconstruct Data
-![](../../images/icons/Deconstruct_Data.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Deconstruct%20Data.py)
 
 ![](../../images/components/Deconstruct_Data.png)
 
-Deconstruct a Ladybug DataCollection into a header and values. 
+![](../../images/icons/Deconstruct_Data.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Deconstruct%20Data.py)
+
+
+Deconstruct a Ladybug DataCollection into a header and values. 
 
 
 

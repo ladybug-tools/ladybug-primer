@@ -1,11 +1,13 @@
 ## Indoor Solar MRT
-![](../../images/icons/Indoor_Solar_MRT.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Indoor%20Solar%20MRT.py)
 
 ![](../../images/components/Indoor_Solar_MRT.png)
 
-Calculate Mean Radiant Temperature (MRT) as a result of outdoor shortwave solar shining directly onto people as well as longwave radiant exchange with the sky. 
+![](../../images/icons/Indoor_Solar_MRT.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Indoor%20Solar%20MRT.py)
 
-This component uses the SolarCal model of ASHRAE-55 to estimate the effects of shortwave solar and a simple sky exposure method to determine longwave radiant exchange. 
+
+Calculate Mean Radiant Temperature (MRT) as a result of outdoor shortwave solar shining directly onto people as well as longwave radiant exchange with the sky. 
+
+This component uses the SolarCal model of ASHRAE-55 to estimate the effects of shortwave solar and a simple sky exposure method to determine longwave radiant exchange. 
 
 
 

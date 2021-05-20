@@ -1,9 +1,11 @@
 ## Deconstruct Design Day
-![](../../images/icons/Deconstruct_Design_Day.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Deconstruct%20Design%20Day.py)
 
 ![](../../images/components/Deconstruct_Design_Day.png)
 
-Deconstruct design day into parameters. 
+![](../../images/icons/Deconstruct_Design_Day.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Deconstruct%20Design%20Day.py)
+
+
+Deconstruct design day into parameters. 
 
 
 

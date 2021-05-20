@@ -1,9 +1,11 @@
 ## Orient to Camera
-![](../../images/icons/Orient_to_Camera.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Orient%20to%20Camera.py)
 
 ![](../../images/components/Orient_to_Camera.png)
 
-Orient a series of geometries to the active viewport camera. 
+![](../../images/icons/Orient_to_Camera.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Orient%20to%20Camera.py)
+
+
+Orient a series of geometries to the active viewport camera. 
 
 
 

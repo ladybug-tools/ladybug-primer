@@ -1,13 +1,15 @@
 ## Direct Sun Hours
-![](../../images/icons/Direct_Sun_Hours.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Direct%20Sun%20Hours.py)
 
 ![](../../images/components/Direct_Sun_Hours.png)
 
-Calculate the number of hours of direct sunlight received by geometry using sun vectors obtained from the "LB SunPath" component. 
+![](../../images/icons/Direct_Sun_Hours.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Direct%20Sun%20Hours.py)
 
-Such direct sun calculations can be used for shadow studies of outdoor enviroments or can be used to estimate glare potential from direct sun on the indoors. 
 
-Note that this component uses the CAD environment's ray intersection methods, which can be fast for geometries with low complexity but does not scale well for complex geometries or many test points. For such complex studies, honeybee-radiance should be used. 
+Calculate the number of hours of direct sunlight received by geometry using sun vectors obtained from the "LB SunPath" component. 
+
+Such direct sun calculations can be used for shadow studies of outdoor enviroments or can be used to estimate glare potential from direct sun on the indoors. 
+
+Note that this component uses the CAD environment's ray intersection methods, which can be fast for geometries with low complexity but does not scale well for complex geometries or many test points. For such complex studies, honeybee-radiance should be used. 
 
 
 

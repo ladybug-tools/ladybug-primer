@@ -1,9 +1,11 @@
 ## Construct Header
-![](../../images/icons/Construct_Header.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Construct%20Header.py)
 
 ![](../../images/components/Construct_Header.png)
 
-Construct a Ladybug Header to be used to create a ladybug DataCollection. 
+![](../../images/icons/Construct_Header.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Construct%20Header.py)
+
+
+Construct a Ladybug Header to be used to create a ladybug DataCollection. 
 
 
 

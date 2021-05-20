@@ -1,9 +1,11 @@
 ## Apply Analysis Period
-![](../../images/icons/Apply_Analysis_Period.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Apply%20Analysis%20Period.py)
 
 ![](../../images/components/Apply_Analysis_Period.png)
 
-Apply an analysis period to a data collection. 
+![](../../images/icons/Apply_Analysis_Period.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Apply%20Analysis%20Period.py)
+
+
+Apply an analysis period to a data collection. 
 
 
 

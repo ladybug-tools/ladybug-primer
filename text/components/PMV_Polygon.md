@@ -1,11 +1,13 @@
 ## PMV Polygon
-![](../../images/icons/PMV_Polygon.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20PMV%20Polygon.py)
 
 ![](../../images/components/PMV_Polygon.png)
 
-Draw thermal comfort polygons on a Psychrometric Chart using the PMV model for indoor thermal comfort. 
+![](../../images/icons/PMV_Polygon.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20PMV%20Polygon.py)
 
-This component can also plot passive strategy polygons on the psychrometric chart and can compute the number of hours that lie inside each of the comfort / strategy polygons. 
+
+Draw thermal comfort polygons on a Psychrometric Chart using the PMV model for indoor thermal comfort. 
+
+This component can also plot passive strategy polygons on the psychrometric chart and can compute the number of hours that lie inside each of the comfort / strategy polygons. 
 
 
 

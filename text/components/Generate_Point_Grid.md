@@ -1,11 +1,13 @@
 ## Generate Point Grid
-![](../../images/icons/Generate_Point_Grid.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Generate%20Point%20Grid.py)
 
 ![](../../images/components/Generate_Point_Grid.png)
 
-Genrate a mesh with corresponding test points from a Rhino Brep (or Mesh). 
+![](../../images/icons/Generate_Point_Grid.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Generate%20Point%20Grid.py)
 
-The resulting mesh will be in a format that the "LB Spatial Heatmap" component will accept. 
+
+Genrate a mesh with corresponding test points from a Rhino Brep (or Mesh). 
+
+The resulting mesh will be in a format that the "LB Spatial Heatmap" component will accept. 
 
 
 

@@ -1,11 +1,13 @@
 ## Solar MRT from Solar Components
-![](../../images/icons/Solar_MRT_from_Solar_Components.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Solar%20MRT%20from%20Solar%20Components.py)
 
 ![](../../images/components/Solar_MRT_from_Solar_Components.png)
 
-Calculate Mean Radiant Temperature (MRT) as a result of shortwave solar using horizontal solar components (direct horizontal and diffuse horizontal solar). 
+![](../../images/icons/Solar_MRT_from_Solar_Components.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Solar%20MRT%20from%20Solar%20Components.py)
 
-This component uses the SolarCal model of ASHRAE-55 to estimate the effects of shortwave solar and a simple sky exposure method to determine longwave radiant exchange. 
+
+Calculate Mean Radiant Temperature (MRT) as a result of shortwave solar using horizontal solar components (direct horizontal and diffuse horizontal solar). 
+
+This component uses the SolarCal model of ASHRAE-55 to estimate the effects of shortwave solar and a simple sky exposure method to determine longwave radiant exchange. 
 
 
 

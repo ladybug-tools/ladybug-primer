@@ -1,9 +1,11 @@
 ## Sky Dome
-![](../../images/icons/Sky_Dome.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Sky%20Dome.py)
 
 ![](../../images/components/Sky_Dome.png)
 
-Visualize a sky matrix from the "LB Cumulative Sky Matrix" component as a colored dome, subdivided into patches with a radiation value for each patch. 
+![](../../images/icons/Sky_Dome.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Sky%20Dome.py)
+
+
+Visualize a sky matrix from the "LB Cumulative Sky Matrix" component as a colored dome, subdivided into patches with a radiation value for each patch. 
 
 
 

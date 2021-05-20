@@ -1,9 +1,11 @@
 ## Construct Data Type
-![](../../images/icons/Construct_Data_Type.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Construct%20Data%20Type.py)
 
 ![](../../images/components/Construct_Data_Type.png)
 
-Construct a Ladybug DataType to be used in the header of a ladybug DataCollection. 
+![](../../images/icons/Construct_Data_Type.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Construct%20Data%20Type.py)
+
+
+Construct a Ladybug DataType to be used in the header of a ladybug DataCollection. 
 
 
 

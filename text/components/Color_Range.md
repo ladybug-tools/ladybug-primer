@@ -1,11 +1,13 @@
 ## Color Range
-![](../../images/icons/Color_Range.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Color%20Range.py)
 
 ![](../../images/components/Color_Range.png)
 
-Use this component to access a library of typical gradients useful throughout Ladybug.  The output from this component should be plugged into the colors_ input of the "Legend Parameters" component. 
+![](../../images/icons/Color_Range.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Color%20Range.py)
 
-For an image of each of the gardients in the library, check here: https://github.com/mostaphaRoudsari/ladybug/blob/master/resources/gradients.jpg 
+
+Use this component to access a library of typical gradients useful throughout Ladybug.  The output from this component should be plugged into the colors_ input of the "Legend Parameters" component. 
+
+For an image of each of the gardients in the library, check here: https://github.com/mostaphaRoudsari/ladybug/blob/master/resources/gradients.jpg 
 
 
 

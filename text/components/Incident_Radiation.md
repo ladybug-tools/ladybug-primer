@@ -1,13 +1,15 @@
 ## Incident Radiation
-![](../../images/icons/Incident_Radiation.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Incident%20Radiation.py)
 
 ![](../../images/components/Incident_Radiation.png)
 
-Calculate the incident radiation on geometry using a sky matrix from the "Cumulative Sky Matrix" component. 
+![](../../images/icons/Incident_Radiation.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Incident%20Radiation.py)
 
-Such studies of incident radiation can be used to apprxomiate the energy that can be collected from photovoltaic or solar thermal systems. They are also useful for evaluating the impact of a building's windows on both energy use and the size/cost of cooling systems. For studies of cooling system size/cost, a sky matrix derived from the STAT file's clear sky radiation should be used. For studies of energy use impact, such as the evaluation of passive solar heating or the potential for excessive cooling energy use, a matrix from EPW radiation should be used. 
 
-Note that NO REFLECTIONS OF SOLAR ENERGY ARE INCLUDED IN THE ANALYSIS PERFORMED BY THIS COMPONENT and it is important to bear in mind that vertical surfaces typically receive 20% - 30% of their solar energy from reflection off of the ground. Also note that this component uses the CAD environment's ray intersection methods, which can be fast for geometries with low complexity but does not scale well for complex geometries or many test points. For such complex cases and situations where relfection of solar energy are important, honeybee-radiance should be used. 
+Calculate the incident radiation on geometry using a sky matrix from the "Cumulative Sky Matrix" component. 
+
+Such studies of incident radiation can be used to apprxomiate the energy that can be collected from photovoltaic or solar thermal systems. They are also useful for evaluating the impact of a building's windows on both energy use and the size/cost of cooling systems. For studies of cooling system size/cost, a sky matrix derived from the STAT file's clear sky radiation should be used. For studies of energy use impact, such as the evaluation of passive solar heating or the potential for excessive cooling energy use, a matrix from EPW radiation should be used. 
+
+Note that NO REFLECTIONS OF SOLAR ENERGY ARE INCLUDED IN THE ANALYSIS PERFORMED BY THIS COMPONENT and it is important to bear in mind that vertical surfaces typically receive 20% - 30% of their solar energy from reflection off of the ground. Also note that this component uses the CAD environment's ray intersection methods, which can be fast for geometries with low complexity but does not scale well for complex geometries or many test points. For such complex cases and situations where relfection of solar energy are important, honeybee-radiance should be used. 
 
 
 

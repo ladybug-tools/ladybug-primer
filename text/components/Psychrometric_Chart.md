@@ -1,11 +1,13 @@
 ## Psychrometric Chart
-![](../../images/icons/Psychrometric_Chart.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Psychrometric%20Chart.py)
 
 ![](../../images/components/Psychrometric_Chart.png)
 
-Draw a psychrometric chart in the Rhino scene and plot a set of temperatures and humidity values on it. 
+![](../../images/icons/Psychrometric_Chart.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Psychrometric%20Chart.py)
 
-Connected data can be either outdoor temperature and humidty from imported EPW weather data or indoor temperature and humidity ratios from an energy simulation. 
+
+Draw a psychrometric chart in the Rhino scene and plot a set of temperatures and humidity values on it. 
+
+Connected data can be either outdoor temperature and humidty from imported EPW weather data or indoor temperature and humidity ratios from an energy simulation. 
 
 
 

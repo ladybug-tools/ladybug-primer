@@ -1,13 +1,15 @@
 ## Mass Arithmetic Operation
-![](../../images/icons/Mass_Arithmetic_Operation.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Mass%20Arithmetic%20Operation.py)
 
 ![](../../images/components/Mass_Arithmetic_Operation.png)
 
-Perform a "mass" arithmetic operation between Data Collections. For example, adding a list of Data Collections into one Data Collection. 
+![](../../images/icons/Mass_Arithmetic_Operation.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Mass%20Arithmetic%20Operation.py)
 
-Note that Data Collections must be aligned in order for this component to run successfully. 
 
-Using this component will often be much faster and more elegant compared to deconstructing the data collection, performing the operation with native Grasshopper components, and rebuilding the collection. 
+Perform a "mass" arithmetic operation between Data Collections. For example, adding a list of Data Collections into one Data Collection. 
+
+Note that Data Collections must be aligned in order for this component to run successfully. 
+
+Using this component will often be much faster and more elegant compared to deconstructing the data collection, performing the operation with native Grasshopper components, and rebuilding the collection. 
 
 
 
