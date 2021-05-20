@@ -1,9 +1,11 @@
 ## Import Location
-![](../../images/icons/Import_Location.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Import%20Location.py)
 
 ![](../../images/components/Import_Location.png)
 
-Import location from an epw file. 
+![](../../images/icons/Import_Location.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Import%20Location.py)
+
+
+Import location from an epw file. 
 
 
 

@@ -1,11 +1,13 @@
 ## Monthly Chart
-![](../../images/icons/Monthly_Chart.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Monthly%20Chart.py)
 
 ![](../../images/components/Monthly_Chart.png)
 
-Create a chart in the Rhino scene with data organized by month. 
+![](../../images/icons/Monthly_Chart.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Monthly%20Chart.py)
 
-Data will display as a bar chart if the input data is monthly or daily. If the data is hourly or sub-hourly, it will be plotted with lines and/or a colored mesh that shows the range of the data within specific percentiles. 
+
+Create a chart in the Rhino scene with data organized by month. 
+
+Data will display as a bar chart if the input data is monthly or daily. If the data is hourly or sub-hourly, it will be plotted with lines and/or a colored mesh that shows the range of the data within specific percentiles. 
 
 
 

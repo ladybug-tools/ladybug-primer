@@ -1,13 +1,15 @@
 ## Arithmetic Operation
-![](../../images/icons/Arithmetic_Operation.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Arithmetic%20Operation.py)
 
 ![](../../images/components/Arithmetic_Operation.png)
 
-Perform simple arithmetic operations between Data Collections. For example, adding two Data Collections together, subtracting one collection from another, or multiplying/dividing a data in a collection by a factor. 
+![](../../images/icons/Arithmetic_Operation.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Arithmetic%20Operation.py)
 
-Note that Data Collections must be aligned in order for this component to run successfully. 
 
-Using this component will often be much faster and more elegant compared to deconstructing the data collection, performing the operation with native Grasshopper components, and rebuilding the collection. 
+Perform simple arithmetic operations between Data Collections. For example, adding two Data Collections together, subtracting one collection from another, or multiplying/dividing a data in a collection by a factor. 
+
+Note that Data Collections must be aligned in order for this component to run successfully. 
+
+Using this component will often be much faster and more elegant compared to deconstructing the data collection, performing the operation with native Grasshopper components, and rebuilding the collection. 
 
 
 

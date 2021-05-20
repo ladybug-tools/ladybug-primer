@@ -1,9 +1,11 @@
 ## Deconstruct Matrix
-![](../../images/icons/Deconstruct_Matrix.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Deconstruct%20Matrix.py)
 
 ![](../../images/components/Deconstruct_Matrix.png)
 
-Deconstruct a Ladybug Matrix object into a Grasshopper Data Tree of values. 
+![](../../images/icons/Deconstruct_Matrix.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Deconstruct%20Matrix.py)
+
+
+Deconstruct a Ladybug Matrix object into a Grasshopper Data Tree of values. 
 
 
 

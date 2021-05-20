@@ -1,9 +1,11 @@
 ## Compass
-![](../../images/icons/Compass.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Compass.py)
 
 ![](../../images/components/Compass.png)
 
-Create a compass sign that indicates the direction of North in the Rhino scene. 
+![](../../images/icons/Compass.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Compass.py)
+
+
+Create a compass sign that indicates the direction of North in the Rhino scene. 
 
 
 

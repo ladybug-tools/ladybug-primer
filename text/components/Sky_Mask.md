@@ -1,11 +1,13 @@
 ## Sky Mask
-![](../../images/icons/Sky_Mask.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Sky%20Mask.py)
 
 ![](../../images/components/Sky_Mask.png)
 
-Visualize the portion of the sky dome that is masked by context geometry or shading strategies around a given point. 
+![](../../images/icons/Sky_Mask.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Sky%20Mask.py)
 
-Separate meshs will be generated for the portions of the sky dome that are masked vs visible. The percentage of the sky that is masked by the context geometry and is visible will also be computed. 
+
+Visualize the portion of the sky dome that is masked by context geometry or shading strategies around a given point. 
+
+Separate meshs will be generated for the portions of the sky dome that are masked vs visible. The percentage of the sky that is masked by the context geometry and is visible will also be computed. 
 
 
 

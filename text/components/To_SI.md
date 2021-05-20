@@ -1,9 +1,11 @@
 ## To SI
-![](../../images/icons/To_SI.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20To%20SI.py)
 
 ![](../../images/components/To_SI.png)
 
-Convert a DataCollection to SI values. 
+![](../../images/icons/To_SI.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20To%20SI.py)
+
+
+Convert a DataCollection to SI values. 
 
 
 

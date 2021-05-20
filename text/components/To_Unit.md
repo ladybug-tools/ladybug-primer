@@ -1,9 +1,11 @@
 ## To Unit
-![](../../images/icons/To_Unit.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20To%20Unit.py)
 
 ![](../../images/components/To_Unit.png)
 
-Convert a DataCollection to the input _to_unit. 
+![](../../images/icons/To_Unit.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20To%20Unit.py)
+
+
+Convert a DataCollection to the input _to_unit. 
 
 
 

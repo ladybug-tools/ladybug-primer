@@ -1,9 +1,11 @@
 ## Relative Humidity from Dew Point
-![](../../images/icons/Relative_Humidity_from_Dew_Point.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Relative%20Humidity%20from%20Dew%20Point.py)
 
 ![](../../images/components/Relative_Humidity_from_Dew_Point.png)
 
-Calculate relative humidity from Dry Bulb Temperature and Dew Point Temperature. 
+![](../../images/icons/Relative_Humidity_from_Dew_Point.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Relative%20Humidity%20from%20Dew%20Point.py)
+
+
+Calculate relative humidity from Dry Bulb Temperature and Dew Point Temperature. 
 
 
 

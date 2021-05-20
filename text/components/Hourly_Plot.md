@@ -1,9 +1,11 @@
 ## Hourly Plot
-![](../../images/icons/Hourly_Plot.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Hourly%20Plot.py)
 
 ![](../../images/components/Hourly_Plot.png)
 
-Create a colored plot of any hourly data collection. 
+![](../../images/icons/Hourly_Plot.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Hourly%20Plot.py)
+
+
+Create a colored plot of any hourly data collection. 
 
 
 

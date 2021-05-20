@@ -1,13 +1,15 @@
 ## Solar Envelope
-![](../../images/icons/Solar_Envelope.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Solar%20Envelope.py)
 
 ![](../../images/components/Solar_Envelope.png)
 
-Generate a solar envelope boundary for a given geometry, set of sun vectors, and context (obstacle) geometry. 
+![](../../images/icons/Solar_Envelope.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Solar%20Envelope.py)
 
-Solar collection envelopes show the height above which one will have solar access to certain sun positions on a given site. 
 
-Solar rights envelopes illustrate the volume in which one can build while ensuring that a new development does not shade the surrounding properties for certain sun positions. 
+Generate a solar envelope boundary for a given geometry, set of sun vectors, and context (obstacle) geometry. 
+
+Solar collection envelopes show the height above which one will have solar access to certain sun positions on a given site. 
+
+Solar rights envelopes illustrate the volume in which one can build while ensuring that a new development does not shade the surrounding properties for certain sun positions. 
 
 
 

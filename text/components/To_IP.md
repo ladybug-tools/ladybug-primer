@@ -1,9 +1,11 @@
 ## To IP
-![](../../images/icons/To_IP.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20To%20IP.py)
 
 ![](../../images/components/To_IP.png)
 
-Convert a DataCollection to IP values. 
+![](../../images/icons/To_IP.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20To%20IP.py)
+
+
+Convert a DataCollection to IP values. 
 
 
 

@@ -1,9 +1,11 @@
 ## Construct Location
-![](../../images/icons/Construct_Location.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Construct%20Location.py)
 
 ![](../../images/components/Construct_Location.png)
 
-Construct location from latitude, lognitude, and time zone data. 
+![](../../images/icons/Construct_Location.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Construct%20Location.py)
+
+
+Construct location from latitude, lognitude, and time zone data. 
 
 
 

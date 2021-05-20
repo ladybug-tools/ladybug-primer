@@ -1,9 +1,11 @@
 ## Comfort Statistics
-![](../../images/icons/Comfort_Statistics.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Comfort%20Statistics.py)
 
 ![](../../images/components/Comfort_Statistics.png)
 
-Get statitics of thermal comfort from a Ladybug Comfort Object. 
+![](../../images/icons/Comfort_Statistics.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Comfort%20Statistics.py)
+
+
+Get statitics of thermal comfort from a Ladybug Comfort Object. 
 
 
 

@@ -1,9 +1,11 @@
 ## Deconstruct Location
-![](../../images/icons/Deconstruct_Location.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Deconstruct%20Location.py)
 
 ![](../../images/components/Deconstruct_Location.png)
 
-Deconstruct location into its component properties. 
+![](../../images/icons/Deconstruct_Location.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Deconstruct%20Location.py)
+
+
+Deconstruct location into its component properties. 
 
 
 

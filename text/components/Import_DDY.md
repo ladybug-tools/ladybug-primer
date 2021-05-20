@@ -1,9 +1,11 @@
 ## Import DDY
-![](../../images/icons/Import_DDY.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Import%20DDY.py)
 
 ![](../../images/components/Import_DDY.png)
 
-Import data from a standard .ddy file. 
+![](../../images/icons/Import_DDY.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Import%20DDY.py)
+
+
+Import data from a standard .ddy file. 
 
 
 

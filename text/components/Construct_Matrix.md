@@ -1,9 +1,11 @@
 ## Construct Matrix
-![](../../images/icons/Construct_Matrix.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Construct%20Matrix.py)
 
 ![](../../images/components/Construct_Matrix.png)
 
-Construct a Ladybug Matrix object from a Grasshopper Data Tree of values. 
+![](../../images/icons/Construct_Matrix.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Construct%20Matrix.py)
+
+
+Construct a Ladybug Matrix object from a Grasshopper Data Tree of values. 
 
 
 

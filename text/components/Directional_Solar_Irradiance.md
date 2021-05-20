@@ -1,11 +1,13 @@
 ## Directional Solar Irradiance
-![](../../images/icons/Directional_Solar_Irradiance.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Directional%20Solar%20Irradiance.py)
 
 ![](../../images/components/Directional_Solar_Irradiance.png)
 
-Compute the hourly solar irradiance or illuminance falling on an unobstructed surface that faces any direction. 
+![](../../images/icons/Directional_Solar_Irradiance.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Directional%20Solar%20Irradiance.py)
 
-The calculation method of this component is faster than running "LB Incident Radiation" studies on an hour-by-hour basis and it is slighty more realistic since it accounts for ground reflection. However, this comes at the cost of not being able to account for any obstructions that block the sun. 
+
+Compute the hourly solar irradiance or illuminance falling on an unobstructed surface that faces any direction. 
+
+The calculation method of this component is faster than running "LB Incident Radiation" studies on an hour-by-hour basis and it is slighty more realistic since it accounts for ground reflection. However, this comes at the cost of not being able to account for any obstructions that block the sun. 
 
 
 

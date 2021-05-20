@@ -1,13 +1,15 @@
 ## Time Interval Operation
-![](../../images/icons/Time_Interval_Operation.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Time%20Interval%20Operation.py)
 
 ![](../../images/components/Time_Interval_Operation.png)
 
-Perform time interval operations on an hourly data collection. 
+![](../../images/icons/Time_Interval_Operation.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Time%20Interval%20Operation.py)
 
-This includes operations like: - Average - Total - Percentile 
 
-These actions can be performed over the following time intervals: - Daily - Monthly - Monthly per Hour 
+Perform time interval operations on an hourly data collection. 
+
+This includes operations like: - Average - Total - Percentile 
+
+These actions can be performed over the following time intervals: - Daily - Monthly - Monthly per Hour 
 
 
 

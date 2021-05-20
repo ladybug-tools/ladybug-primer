@@ -1,9 +1,11 @@
 ## Import STAT
-![](../../images/icons/Import_STAT.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Import%20STAT.py)
 
 ![](../../images/components/Import_STAT.png)
 
-Import data from a standard .stat file. 
+![](../../images/icons/Import_STAT.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Import%20STAT.py)
+
+
+Import data from a standard .stat file. 
 
 
 

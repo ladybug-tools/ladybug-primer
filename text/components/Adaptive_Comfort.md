@@ -1,20 +1,21 @@
 ## Adaptive Comfort
-![](../../images/icons/Adaptive_Comfort.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Adaptive%20Comfort.py)
 
 ![](../../images/components/Adaptive_Comfort.png)
 
-Calculate Adaptive thermal comfort. 
+![](../../images/icons/Adaptive_Comfort.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Adaptive%20Comfort.py)
 
-The Adaptive thermal comfort model is for use on the interior of buildings where a heating or cooling system is not operational and occupants have the option to open windows for natural ventilation. 
 
-Note that, for fully conditioned buildings, the PMV thermal comfort model should be used. 
+Calculate Adaptive thermal comfort. 
+
+The Adaptive thermal comfort model is for use on the interior of buildings where a heating or cooling system is not operational and occupants have the option to open windows for natural ventilation. 
+
+Note that, for fully conditioned buildings, the PMV thermal comfort model should be used. 
 
 
 
 #### Inputs
 * ##### out_temp [Required]
 Outdoor temperatures in one of the following formats: 
-
 
     * A Data Collection of prevailing outdoor temperature values in C.This Data Collection must align with the _air_temp or _mrt_ inputs and bear the PrevailingOutdoorTemperature data type in its header. 
 

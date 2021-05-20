@@ -1,13 +1,15 @@
 ## EPW to DDY
-![](../../images/icons/EPW_to_DDY.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20EPW%20to%20DDY.py)
 
 ![](../../images/components/EPW_to_DDY.png)
 
-Produce a DDY file with a heating and a cooling design day from an EPW. 
+![](../../images/icons/EPW_to_DDY.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20EPW%20to%20DDY.py)
 
-This method will first check if there is any heating or cooling design day information contained within the EPW itself. If None is found, the heating and cooling design days will be derived from analysis of the annual data within the EPW, which is usually less representative of the climate since only one year of data is used to derive the DDY (instead of the usual multi-year analysis that is performed for DDYs distributed with EPWs). 
 
-Information on the uncertainty introduced by using only one year of data to create design days can be found in AHSRAE HOF 2013, Chapter 14.14. 
+Produce a DDY file with a heating and a cooling design day from an EPW. 
+
+This method will first check if there is any heating or cooling design day information contained within the EPW itself. If None is found, the heating and cooling design days will be derived from analysis of the annual data within the EPW, which is usually less representative of the climate since only one year of data is used to derive the DDY (instead of the usual multi-year analysis that is performed for DDYs distributed with EPWs). 
+
+Information on the uncertainty introduced by using only one year of data to create design days can be found in AHSRAE HOF 2013, Chapter 14.14. 
 
 
 

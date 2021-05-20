@@ -1,11 +1,13 @@
 ## HOY to DateTime
-![](../../images/icons/HOY_to_DateTime.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20HOY%20to%20DateTime.py)
 
 ![](../../images/components/HOY_to_DateTime.png)
 
-Calculate date information from an hour of the year. 
+![](../../images/icons/HOY_to_DateTime.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20HOY%20to%20DateTime.py)
 
-Date information includes the month of the year, day of the month and the hour + minute of the day. 
+
+Calculate date information from an hour of the year. 
+
+Date information includes the month of the year, day of the month and the hour + minute of the day. 
 
 
 

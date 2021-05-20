@@ -1,13 +1,15 @@
 ## Real Time Incident Radiation
-![](../../images/icons/Real_Time_Incident_Radiation.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Real%20Time%20Incident%20Radiation.py)
 
 ![](../../images/components/Real_Time_Incident_Radiation.png)
 
-Compute Incident Radiation values for any sky matrix in real time using the Geometry/Sky intersection matrix produced by the "LB Incident Radiation" component. 
+![](../../images/icons/Real_Time_Incident_Radiation.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Real%20Time%20Incident%20Radiation.py)
 
-Using this component enables one to scroll through radiation on an hour-by-hour or month-by-month basis in a manner that is an order of magnitude faster than running each sky matrix through the "LB Incident Radiation" component. 
 
-The speed of this component is thanks to the fact that the Geometry/Sky intersection matrix contains the relationship between the geometry and each patch of the sky. So computing new radiation values is as simple as multiplying the sky matrix by the intersection matrix. 
+Compute Incident Radiation values for any sky matrix in real time using the Geometry/Sky intersection matrix produced by the "LB Incident Radiation" component. 
+
+Using this component enables one to scroll through radiation on an hour-by-hour or month-by-month basis in a manner that is an order of magnitude faster than running each sky matrix through the "LB Incident Radiation" component. 
+
+The speed of this component is thanks to the fact that the Geometry/Sky intersection matrix contains the relationship between the geometry and each patch of the sky. So computing new radiation values is as simple as multiplying the sky matrix by the intersection matrix. 
 
 
 

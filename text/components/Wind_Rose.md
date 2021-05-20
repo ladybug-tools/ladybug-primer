@@ -1,9 +1,11 @@
 ## Wind Rose
-![](../../images/icons/Wind_Rose.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Wind%20Rose.py)
 
 ![](../../images/components/Wind_Rose.png)
 
-Create a plot of any hourly data by wind directions. 
+![](../../images/icons/Wind_Rose.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Wind%20Rose.py)
+
+
+Create a plot of any hourly data by wind directions. 
 
 
 

@@ -1,11 +1,13 @@
 ## Human to Sky Relation
-![](../../images/icons/Human_to_Sky_Relation.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Human%20to%20Sky%20Relation.py)
 
 ![](../../images/components/Human_to_Sky_Relation.png)
 
-Calculate parameters for the relationship between human geometry and the sky given the position of a human subject and context geometry surrounding this position. 
+![](../../images/icons/Human_to_Sky_Relation.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Human%20to%20Sky%20Relation.py)
 
-The outputs of this component can be plugged into either the "LB Outdoor Solar MRT" or the "LB Indoor Solar MRT" in order to account for context shading around a human subject in these MRT calculations. 
+
+Calculate parameters for the relationship between human geometry and the sky given the position of a human subject and context geometry surrounding this position. 
+
+The outputs of this component can be plugged into either the "LB Outdoor Solar MRT" or the "LB Indoor Solar MRT" in order to account for context shading around a human subject in these MRT calculations. 
 
 
 

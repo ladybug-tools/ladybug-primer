@@ -1,9 +1,11 @@
 ## Deconstruct Header
-![](../../images/icons/Deconstruct_Header.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Deconstruct%20Header.py)
 
 ![](../../images/components/Deconstruct_Header.png)
 
-Deconstruct a Ladybug Header into its components. 
+![](../../images/icons/Deconstruct_Header.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Deconstruct%20Header.py)
+
+
+Deconstruct a Ladybug Header into its components. 
 
 
 

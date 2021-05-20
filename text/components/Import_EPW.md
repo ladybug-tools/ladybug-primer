@@ -1,9 +1,11 @@
 ## Import EPW
-![](../../images/icons/Import_EPW.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Import%20EPW.py)
 
 ![](../../images/components/Import_EPW.png)
 
-Import climate data from a standard .epw file. 
+![](../../images/icons/Import_EPW.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Import%20EPW.py)
+
+
+Import climate data from a standard .epw file. 
 
 
 

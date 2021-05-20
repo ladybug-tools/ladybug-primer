@@ -1,9 +1,11 @@
 ## Humidity Metrics
-![](../../images/icons/Humidity_Metrics.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Humidity%20Metrics.py)
 
 ![](../../images/components/Humidity_Metrics.png)
 
-Calculate humidity metrics from relative humidity, dry bulb temperature and (if present) atmospheric pressure. 
+![](../../images/icons/Humidity_Metrics.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Humidity%20Metrics.py)
+
+
+Calculate humidity metrics from relative humidity, dry bulb temperature and (if present) atmospheric pressure. 
 
 
 

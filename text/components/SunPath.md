@@ -1,11 +1,13 @@
 ## SunPath
-![](../../images/icons/SunPath.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20SunPath.py)
 
 ![](../../images/components/SunPath.png)
 
-Output a Sunpath (aka. sun plot) graphic into the Rhino scene. 
+![](../../images/icons/SunPath.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20SunPath.py)
 
-The component also outputs sun vectors that can be used for solar access analysis and shading design. 
+
+Output a Sunpath (aka. sun plot) graphic into the Rhino scene. 
+
+The component also outputs sun vectors that can be used for solar access analysis and shading design. 
 
 
 

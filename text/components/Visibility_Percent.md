@@ -1,11 +1,13 @@
 ## Visibility Percent
-![](../../images/icons/Visibility_Percent.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Visibility%20Percent.py)
 
 ![](../../images/components/Visibility_Percent.png)
 
-Evaluate the percent visibility from geometry to a specific set of points. 
+![](../../images/icons/Visibility_Percent.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Visibility%20Percent.py)
 
-Such visibility calculations can be used to understand the portions of a building facade that can see a skyline or landmark when used on the outdoors. When used on the indoors, they can evaluate the spectator view of a stage, screen, or other point of interest. 
+
+Evaluate the percent visibility from geometry to a specific set of points. 
+
+Such visibility calculations can be used to understand the portions of a building facade that can see a skyline or landmark when used on the outdoors. When used on the indoors, they can evaluate the spectator view of a stage, screen, or other point of interest. 
 
 
 

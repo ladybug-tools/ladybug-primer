@@ -1,11 +1,13 @@
 ## Spatial Heatmap
-![](../../images/icons/Spatial_Heatmap.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Spatial%20Heatmap.py)
 
 ![](../../images/components/Spatial_Heatmap.png)
 
-Color a mesh as a heatmap using values that align with the mesh faces or vertices. 
+![](../../images/icons/Spatial_Heatmap.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Spatial%20Heatmap.py)
 
-Note that any brep can be converted to a gridded mesh that can be consumed by  this component using the "LB Generate Point Grid" component. 
+
+Color a mesh as a heatmap using values that align with the mesh faces or vertices. 
+
+Note that any brep can be converted to a gridded mesh that can be consumed by  this component using the "LB Generate Point Grid" component. 
 
 
 

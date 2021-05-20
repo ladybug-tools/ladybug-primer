@@ -1,13 +1,15 @@
 ## Cumulative Sky Matrix
-![](../../images/icons/Cumulative_Sky_Matrix.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Cumulative%20Sky%20Matrix.py)
 
 ![](../../images/components/Cumulative_Sky_Matrix.png)
 
-Get a matrix containing radiation values from each patch of a sky dome. 
+![](../../images/icons/Cumulative_Sky_Matrix.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Cumulative%20Sky%20Matrix.py)
 
-Creating this matrix is a necessary pre-step before doing incident radiation analysis with Rhino geometry or generating a radiation rose. 
 
-This component uses Radiance's gendaymtx function to calculate the radiation for each patch of the sky. Gendaymtx is written by Ian Ashdown and Greg Ward. Morere information can be found in Radiance manual at: http://www.radiance-online.org/learning/documentation/manual-pages/pdfs/gendaymtx.pdf 
+Get a matrix containing radiation values from each patch of a sky dome. 
+
+Creating this matrix is a necessary pre-step before doing incident radiation analysis with Rhino geometry or generating a radiation rose. 
+
+This component uses Radiance's gendaymtx function to calculate the radiation for each patch of the sky. Gendaymtx is written by Ian Ashdown and Greg Ward. Morere information can be found in Radiance manual at: http://www.radiance-online.org/learning/documentation/manual-pages/pdfs/gendaymtx.pdf 
 
 
 

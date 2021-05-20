@@ -1,9 +1,11 @@
 ## Import Design Day
-![](../../images/icons/Import_Design_Day.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Import%20Design%20Day.py)
 
 ![](../../images/components/Import_Design_Day.png)
 
-Import hourly climate data from a Ladybug DesignDay object. 
+![](../../images/icons/Import_Design_Day.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Import%20Design%20Day.py)
+
+
+Import hourly climate data from a Ladybug DesignDay object. 
 
 
 

@@ -1,11 +1,13 @@
 ## Capture View
-![](../../images/icons/Capture_View.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Capture%20View.py)
 
 ![](../../images/components/Capture_View.png)
 
-Capture views of the Rhino scene and save them to your hard drive as as a .png files. 
+![](../../images/icons/Capture_View.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Capture%20View.py)
 
-This is particularly useful when creating animations and one needs to automate the capturing of views. Note that images will likely have a Rhino world axes icon in the lower left of the image unless you go to Options > Grid > and uncheck "Show world axes icon". 
+
+Capture views of the Rhino scene and save them to your hard drive as as a .png files. 
+
+This is particularly useful when creating animations and one needs to automate the capturing of views. Note that images will likely have a Rhino world axes icon in the lower left of the image unless you go to Options > Grid > and uncheck "Show world axes icon". 
 
 
 

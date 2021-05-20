@@ -1,9 +1,11 @@
 ## Export UserObject
-![](../../images/icons/Export_UserObject.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Export%20UserObject.py)
 
 ![](../../images/components/Export_UserObject.png)
 
-Export a Ladybug Tools Grasshopper GHPython component as a UserObject that can be installed on other's machines. 
+![](../../images/icons/Export_UserObject.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Export%20UserObject.py)
+
+
+Export a Ladybug Tools Grasshopper GHPython component as a UserObject that can be installed on other's machines. 
 
 
 

@@ -1,9 +1,11 @@
 ## EPWmap
-![](../../images/icons/EPWmap.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20EPWmap.py)
 
 ![](../../images/components/EPWmap.png)
 
-Open EPWmap in a web browser. 
+![](../../images/icons/EPWmap.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20EPWmap.py)
+
+
+Open EPWmap in a web browser. 
 
 
 
