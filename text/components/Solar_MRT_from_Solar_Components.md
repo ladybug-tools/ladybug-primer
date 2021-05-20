@@ -1,4 +1,5 @@
-## ![](../../images/icons/Solar_MRT_from_Solar_Components.png) Solar MRT from Solar Components - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Solar%20MRT%20from%20Solar%20Components.py)
+## Solar MRT from Solar Components
+![](../../images/icons/Solar_MRT_from_Solar_Components.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Solar%20MRT%20from%20Solar%20Components.py)
 
 ![](../../images/components/Solar_MRT_from_Solar_Components.png)
 
@@ -28,10 +29,10 @@ Set to True to run the component.
 
 #### Outputs
 * ##### report
-Reports, errors, warnings, etc.
+Reports, errors, warnings, etc. 
 * ##### erf
-Data collection of effective radiant field (ERF) in W/m2.
+Data collection of effective radiant field (ERF) in W/m2. 
 * ##### dmrt
-Data collection of mean radiant temperature delta in C.
+Data collection of mean radiant temperature delta in C. 
 * ##### mrt
-Data collection of mean radiant temperature in C.
+Data collection of mean radiant temperature in C. 

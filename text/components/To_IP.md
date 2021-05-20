@@ -1,4 +1,5 @@
-## ![](../../images/icons/To_IP.png) To IP - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20To%20IP.py)
+## To IP
+![](../../images/icons/To_IP.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20To%20IP.py)
 
 ![](../../images/components/To_IP.png)
 
@@ -12,4 +13,4 @@ A DataCollection in SI units.
 
 #### Outputs
 * ##### data_ip
-The DataCollection in IP units.
+The DataCollection in IP units. 

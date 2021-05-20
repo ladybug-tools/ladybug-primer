@@ -1,4 +1,5 @@
-## ![](../../images/icons/Time_Rate_of_Change.png) Time Rate of Change - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Time%20Rate%20of%20Change.py)
+## Time Rate of Change
+![](../../images/icons/Time_Rate_of_Change.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Time%20Rate%20of%20Change.py)
 
 ![](../../images/components/Time_Rate_of_Change.png)
 
@@ -14,4 +15,4 @@ A houry, sub-hourly or daily data collection that can converted to a time rate o
 
 #### Outputs
 * ##### data_rate
-The data collection converted to time rate of changevalues. (eg. a data collection of Energy values in kWh).
+The data collection converted to time rate of changevalues. (eg. a data collection of Energy values in kWh). 

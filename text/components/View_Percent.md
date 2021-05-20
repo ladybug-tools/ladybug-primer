@@ -1,4 +1,5 @@
-## ![](../../images/icons/View_Percent.png) View Percent - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20View%20Percent.py)
+## View Percent
+![](../../images/icons/View_Percent.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20View%20Percent.py)
 
 ![](../../images/components/View_Percent.png)
 
@@ -51,18 +52,18 @@ Set to "True" to run the component and perform view analysis of the input _geome
 
 #### Outputs
 * ##### report
-...
+... 
 * ##### points
-The grid of points on the test _geometry that are be used to perform the view analysis.
+The grid of points on the test _geometry that are be used to perform the view analysis. 
 * ##### view_vecs
-A list of vectors which are projected from each of the points to evaluate view.
+A list of vectors which are projected from each of the points to evaluate view. 
 * ##### results
-A list of numbers that aligns with the points. Each number indicates the percentage of the view_vecs that are not blocked by context geometry.
+A list of numbers that aligns with the points. Each number indicates the percentage of the view_vecs that are not blocked by context geometry. 
 * ##### mesh
-A colored mesh of the test _geometry representing the percentage of the input _geometry's view that is not blocked by context.
+A colored mesh of the test _geometry representing the percentage of the input _geometry's view that is not blocked by context. 
 * ##### legend
-A legend showing the number of hours that correspond to the colors of the mesh.
+A legend showing the number of hours that correspond to the colors of the mesh. 
 * ##### title
-A text object for the study title.
+A text object for the study title. 
 * ##### int_mtx
-A Matrix object that can be connected to the "LB Deconstruct Matrix" component to obtain detailed vector-by-vector results of the study. Each sub-list (aka. branch of the Data Tree) represents one of the points used for analysis. The length of each sub-list matches the number of view_vecs used for the analysis. Each value in the sub-list is either a "1", indicating that the vector is visible for that vector, or a "0", indicating that the vector is not visible for that vector.
+A Matrix object that can be connected to the "LB Deconstruct Matrix" component to obtain detailed vector-by-vector results of the study. Each sub-list (aka. branch of the Data Tree) represents one of the points used for analysis. The length of each sub-list matches the number of view_vecs used for the analysis. Each value in the sub-list is either a "1", indicating that the vector is visible for that vector, or a "0", indicating that the vector is not visible for that vector. 

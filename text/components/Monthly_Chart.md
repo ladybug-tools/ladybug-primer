@@ -1,4 +1,5 @@
-## ![](../../images/icons/Monthly_Chart.png) Monthly Chart - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Monthly%20Chart.py)
+## Monthly Chart
+![](../../images/icons/Monthly_Chart.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Monthly%20Chart.py)
 
 ![](../../images/components/Monthly_Chart.png)
 
@@ -30,20 +31,20 @@ An optional LegendParameter object to change the display of the chart (Default: 
 
 #### Outputs
 * ##### report
-...
+... 
 * ##### data_mesh
-A list of colored meshes that represent the different input data. These meshes will resemble a bar chart in the case of monthly or daily data and will resemble a band between two ranges for hourly and sub-hourly data. Multiple lists of meshes will be output for several input data streams.
+A list of colored meshes that represent the different input data. These meshes will resemble a bar chart in the case of monthly or daily data and will resemble a band between two ranges for hourly and sub-hourly data. Multiple lists of meshes will be output for several input data streams. 
 * ##### data_lines
-A list of polylines that represent the input data. These will represent the average or total at each hour whenever the input data is hourly or monthly-per-hour data.
+A list of polylines that represent the input data. These will represent the average or total at each hour whenever the input data is hourly or monthly-per-hour data. 
 * ##### col_lines
-A list of colored polylines that represent the input data. These will only be output when the input data are monthly per hour.
+A list of colored polylines that represent the input data. These will only be output when the input data are monthly per hour. 
 * ##### legend
-Geometry representing the legend for the chart, noting which colors correspond to which input data.
+Geometry representing the legend for the chart, noting which colors correspond to which input data. 
 * ##### borders
-A list of lines and polylines representing the axes and intervals of the chart.
+A list of lines and polylines representing the axes and intervals of the chart. 
 * ##### labels
-A list of text objects that label the borders with month name and the intervals of the Y-axis.
+A list of text objects that label the borders with month name and the intervals of the Y-axis. 
 * ##### y_title
-A text oject for the Y-axis title.
+A text oject for the Y-axis title. 
 * ##### title
-A text object for the global_title.
+A text object for the global_title. 

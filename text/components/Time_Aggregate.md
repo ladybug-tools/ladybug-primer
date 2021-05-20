@@ -1,4 +1,5 @@
-## ![](../../images/icons/Time_Aggregate.png) Time Aggregate - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Time%20Aggregate.py)
+## Time Aggregate
+![](../../images/icons/Time_Aggregate.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Time%20Aggregate.py)
 
 ![](../../images/components/Time_Aggregate.png)
 
@@ -14,4 +15,4 @@ A houry, sub-hourly or daily data collection that can be aggregated over time to
 
 #### Outputs
 * ##### data_aggr
-The data collection aggregated over time. (eg. a data collection of Energy values in kWh).
+The data collection aggregated over time. (eg. a data collection of Energy values in kWh). 

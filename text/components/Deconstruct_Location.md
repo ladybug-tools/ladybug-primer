@@ -1,4 +1,5 @@
-## ![](../../images/icons/Deconstruct_Location.png) Deconstruct Location - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Deconstruct%20Location.py)
+## Deconstruct Location
+![](../../images/icons/Deconstruct_Location.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Deconstruct%20Location.py)
 
 ![](../../images/components/Deconstruct_Location.png)
 
@@ -12,12 +13,12 @@ The output from the importEPW or constructLocation component.
 
 #### Outputs
 * ##### name
-Name of the location.
+Name of the location. 
 * ##### latitude
-Latitude of the location.
+Latitude of the location. 
 * ##### longitude
-Longitude of the location.
+Longitude of the location. 
 * ##### time_zone
-Time zone of the location.
+Time zone of the location. 
 * ##### elevation
-Elevation of the location.
+Elevation of the location. 

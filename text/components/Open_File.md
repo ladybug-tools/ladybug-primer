@@ -1,4 +1,5 @@
-## ![](../../images/icons/Open_File.png) Open File - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Open%20File.py)
+## Open File
+![](../../images/icons/Open_File.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Open%20File.py)
 
 ![](../../images/components/Open_File.png)
 
@@ -12,4 +13,4 @@ Full path to a file to be opened.
 
 #### Outputs
 * ##### report
-Reports, errors, warnings, etc.
+Reports, errors, warnings, etc. 

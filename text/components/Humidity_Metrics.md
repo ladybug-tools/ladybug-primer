@@ -1,4 +1,5 @@
-## ![](../../images/icons/Humidity_Metrics.png) Humidity Metrics - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Humidity%20Metrics.py)
+## Humidity Metrics
+![](../../images/icons/Humidity_Metrics.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Humidity%20Metrics.py)
 
 ![](../../images/components/Humidity_Metrics.png)
 
@@ -16,10 +17,10 @@ A value or data collection representing atmospheric pressure [Pa] Default is to 
 
 #### Outputs
 * ##### humid_ratio
-A data collection or value for humidity ratio (aka. absolute humidity). Units are fractional (kg water / kg air).
+A data collection or value for humidity ratio (aka. absolute humidity). Units are fractional (kg water / kg air). 
 * ##### enthalpy
-A data collection or value for enthalpy (kJ / Kg).
+A data collection or value for enthalpy (kJ / Kg). 
 * ##### wet_bulb
-A data collection or value for wet bulb temperature (C).
+A data collection or value for wet bulb temperature (C). 
 * ##### dew_point
-A data collection or value for dew point temperature (C).
+A data collection or value for dew point temperature (C). 

@@ -1,4 +1,5 @@
-## ![](../../images/icons/Visibility_Percent.png) Visibility Percent - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Visibility%20Percent.py)
+## Visibility Percent
+![](../../images/icons/Visibility_Percent.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Visibility%20Percent.py)
 
 ![](../../images/components/Visibility_Percent.png)
 
@@ -34,16 +35,16 @@ Set to "True" to run the component and perform visibility analysis of the input 
 
 #### Outputs
 * ##### report
-...
+... 
 * ##### points
-The grid of points on the test _geometry that are be used to perform the visibility analysis.
+The grid of points on the test _geometry that are be used to perform the visibility analysis. 
 * ##### results
-A list of numbers that aligns with the points. Each number indicates the percentage of the _view_points that are not blocked by context geometry.
+A list of numbers that aligns with the points. Each number indicates the percentage of the _view_points that are not blocked by context geometry. 
 * ##### mesh
-A colored mesh of the test _geometry representing the percentage of the input _geometry's visibility that is not blocked by context.
+A colored mesh of the test _geometry representing the percentage of the input _geometry's visibility that is not blocked by context. 
 * ##### legend
-A legend showing the number of hours that correspond to the colors of the mesh.
+A legend showing the number of hours that correspond to the colors of the mesh. 
 * ##### title
-A text object for the study title.
+A text object for the study title. 
 * ##### int_mtx
-A Matrix object that can be connected to the "LB Deconstruct Matrix" component to obtain detailed point-by-point results of the study. Each sub-list (aka. branch of the Data Tree) represents one of the geometry points used for analysis. The length of each sub-list matches the number of _view_points used for the analysis. Each value in the sub-list is either a "1", indicating that the vector is visible for that vector, or a "0", indicating that the vector is not visible for that vector.
+A Matrix object that can be connected to the "LB Deconstruct Matrix" component to obtain detailed point-by-point results of the study. Each sub-list (aka. branch of the Data Tree) represents one of the geometry points used for analysis. The length of each sub-list matches the number of _view_points used for the analysis. Each value in the sub-list is either a "1", indicating that the vector is visible for that vector, or a "0", indicating that the vector is not visible for that vector. 

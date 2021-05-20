@@ -1,4 +1,5 @@
-## ![](../../images/icons/Compass.png) Compass - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Compass.py)
+## Compass
+![](../../images/icons/Compass.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Compass.py)
 
 ![](../../images/components/Compass.png)
 
@@ -16,4 +17,4 @@ A number to set the scale of the compass. The default is 1, which corresponds to
 
 #### Outputs
 * ##### compass
-A set of circles, lines and text objects that mark the cardinal directions in the Rhino scene.
+A set of circles, lines and text objects that mark the cardinal directions in the Rhino scene. 

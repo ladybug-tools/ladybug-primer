@@ -1,4 +1,5 @@
-## ![](../../images/icons/Area_Normalize.png) Area Normalize - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Area%20Normalize.py)
+## Area Normalize
+![](../../images/icons/Area_Normalize.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Area%20Normalize.py)
 
 ![](../../images/components/Area_Normalize.png)
 
@@ -18,4 +19,4 @@ Text for the units that the area value is in. Acceptable inputs include 'm2', 'f
 
 #### Outputs
 * ##### data
-A Ladybug data collection object derived from the operation between the two data inputs.
+A Ladybug data collection object derived from the operation between the two data inputs. 

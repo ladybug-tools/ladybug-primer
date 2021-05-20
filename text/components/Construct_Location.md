@@ -1,4 +1,5 @@
-## ![](../../images/icons/Construct_Location.png) Construct Location - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Construct%20Location.py)
+## Construct Location
+![](../../images/icons/Construct_Location.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Construct%20Location.py)
 
 ![](../../images/components/Construct_Location.png)
 
@@ -20,4 +21,4 @@ A number for elevation of the location in meters. (Default: 0).
 
 #### Outputs
 * ##### location
-Location data (use this output to construct the sun path).
+Location data (use this output to construct the sun path). 

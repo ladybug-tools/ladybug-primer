@@ -1,4 +1,5 @@
-## ![](../../images/icons/Passive_Strategy_Parameters.png) Passive Strategy Parameters - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Passive%20Strategy%20Parameters.py)
+## Passive Strategy Parameters
+![](../../images/icons/Passive_Strategy_Parameters.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Passive%20Strategy%20Parameters.py)
 
 ![](../../images/components/Passive_Strategy_Parameters.png)
 
@@ -30,4 +31,4 @@ A number that represents the amount of time in hours that a therortical building
 
 #### Outputs
 * ##### strategy_par
-Passive strategy parameters that can be plugged into the "LB PMV Polygon" to adjust the assumptions of the passive strategy polygons.
+Passive strategy parameters that can be plugged into the "LB PMV Polygon" to adjust the assumptions of the passive strategy polygons. 

@@ -1,4 +1,5 @@
-## ![](../../images/icons/Human_to_Sky_Relation.png) Human to Sky Relation - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Human%20to%20Sky%20Relation.py)
+## Human to Sky Relation
+![](../../images/icons/Human_to_Sky_Relation.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Human%20to%20Sky%20Relation.py)
 
 ![](../../images/components/Human_to_Sky_Relation.png)
 
@@ -28,12 +29,12 @@ Set to "True" to run the component and compute the human/sky relationship. If se
 
 #### Outputs
 * ##### report
-...
+... 
 * ##### human_points
-The points used to represent the human subject in the calculation of the fraction of the body exposed to sun. Note that these are generated even when _run is set to "False".
+The points used to represent the human subject in the calculation of the fraction of the body exposed to sun. Note that these are generated even when _run is set to "False". 
 * ##### human_line
-Line representing the height of the human subject. Note that this is generated even when _run is set to "False".
+Line representing the height of the human subject. Note that this is generated even when _run is set to "False". 
 * ##### fract_body_exp
-A data collection for the fraction of the body exposed to direct sunlight at each hour of the year. This can be plugged into the "Solar MRT" components in order to account for context shading in the computation of MRT.
+A data collection for the fraction of the body exposed to direct sunlight at each hour of the year. This can be plugged into the "Solar MRT" components in order to account for context shading in the computation of MRT. 
 * ##### sky_exposure
-A single number between 0 and 1 for the fraction of the sky vault in human subject’s view. This can be plugged into the "Solar MRT" components in order to account for context shading in the computation of MRT.
+A single number between 0 and 1 for the fraction of the sky vault in human subject’s view. This can be plugged into the "Solar MRT" components in order to account for context shading in the computation of MRT. 

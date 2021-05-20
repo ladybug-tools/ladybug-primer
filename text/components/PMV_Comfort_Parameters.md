@@ -1,4 +1,5 @@
-## ![](../../images/icons/PMV_Comfort_Parameters.png) PMV Comfort Parameters - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20PMV%20Comfort%20Parameters.py)
+## PMV Comfort Parameters
+![](../../images/icons/PMV_Comfort_Parameters.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20PMV%20Comfort%20Parameters.py)
 
 ![](../../images/components/PMV_Comfort_Parameters.png)
 
@@ -20,4 +21,4 @@ The air speed threshold in m/s at which the standard effective temperature (SET)
 
 #### Outputs
 * ##### pmv_par
-A PMV comfort parameter object that can be plugged into any of the components that compute PMV thermal comfort.
+A PMV comfort parameter object that can be plugged into any of the components that compute PMV thermal comfort. 

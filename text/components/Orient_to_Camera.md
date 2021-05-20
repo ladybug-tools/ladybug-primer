@@ -1,4 +1,5 @@
-## ![](../../images/icons/Orient_to_Camera.png) Orient to Camera - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Orient%20to%20Camera.py)
+## Orient to Camera
+![](../../images/icons/Orient_to_Camera.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Orient%20to%20Camera.py)
 
 ![](../../images/components/Orient_to_Camera.png)
 
@@ -16,4 +17,4 @@ Connect a Grasshopper "button" component to refresh the orientation upon hitting
 
 #### Outputs
 * ##### geo
-The input geometry that has been oriented to the camera of the active Rhino viewport.
+The input geometry that has been oriented to the camera of the active Rhino viewport. 

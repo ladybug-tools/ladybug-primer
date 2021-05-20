@@ -1,4 +1,5 @@
-## ![](../../images/icons/To_Unit.png) To Unit - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20To%20Unit.py)
+## To Unit
+![](../../images/icons/To_Unit.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20To%20Unit.py)
 
 ![](../../images/components/To_Unit.png)
 
@@ -14,6 +15,6 @@ Text representing the unit to convert the DataCollection to (eg. m2). Connect th
 
 #### Outputs
 * ##### all_unit
-A list of all possible units that the input _data can be converted to.
+A list of all possible units that the input _data can be converted to. 
 * ##### data
-The converted DataCollection.
+The converted DataCollection. 

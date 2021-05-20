@@ -1,4 +1,5 @@
-## ![](../../images/icons/Sky_Dome.png) Sky Dome - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Sky%20Dome.py)
+## Sky Dome
+![](../../images/icons/Sky_Dome.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Sky%20Dome.py)
 
 ![](../../images/components/Sky_Dome.png)
 
@@ -26,18 +27,18 @@ An optional LegendParameter object to change the display of the sky dome (Defaul
 
 #### Outputs
 * ##### report
-...
+... 
 * ##### mesh
-A colored mesh representing the intensity of radiation for each of the sky patches within the sky dome.
+A colored mesh representing the intensity of radiation for each of the sky patches within the sky dome. 
 * ##### compass
-A set of circles, lines and text objects that mark the cardinal directions in relation to the sky dome.
+A set of circles, lines and text objects that mark the cardinal directions in relation to the sky dome. 
 * ##### legend
-A legend showing the kWh/m2 values that correspond to the colors of the mesh.
+A legend showing the kWh/m2 values that correspond to the colors of the mesh. 
 * ##### title
-A text object for the title of the sunpath.
+A text object for the title of the sunpath. 
 * ##### patch_vecs
-A list of vectors for each of the patches of the sky dome. All vectors are unit vectors and point from the center towards each of the patches. They can be used to construct visualizations of the rays used to perform radiation analysis.
+A list of vectors for each of the patches of the sky dome. All vectors are unit vectors and point from the center towards each of the patches. They can be used to construct visualizations of the rays used to perform radiation analysis. 
 * ##### patch_values
-Radiation values for each of the sky patches in kWh/m2. This will be one list if show_comp_ is "False" and a list of 3 lists (aka. a Data Tree) for total, direct, diffuse if show_comp_ is "True".
+Radiation values for each of the sky patches in kWh/m2. This will be one list if show_comp_ is "False" and a list of 3 lists (aka. a Data Tree) for total, direct, diffuse if show_comp_ is "True". 
 * ##### mesh_values
-Radiation values for each face of the dome mesh in kWh/m2. This can be used to post-process the radiation data and then regenerate the dome visualization using the mesh output from this component and the "LB Spatial Heatmap" component. Examples of useful post- processing include converting the units to something other than kWh/m2, inverting the +/- sign of radiation values depending on whether radiation is helpful or harmful to building thermal loads, etc. This will be one list if show_comp_ is "False" and a list of 3 lists (aka. a Data Tree) for total, direct, diffuse if show_comp_ is "True".
+Radiation values for each face of the dome mesh in kWh/m2. This can be used to post-process the radiation data and then regenerate the dome visualization using the mesh output from this component and the "LB Spatial Heatmap" component. Examples of useful post- processing include converting the units to something other than kWh/m2, inverting the +/- sign of radiation values depending on whether radiation is helpful or harmful to building thermal loads, etc. This will be one list if show_comp_ is "False" and a list of 3 lists (aka. a Data Tree) for total, direct, diffuse if show_comp_ is "True". 

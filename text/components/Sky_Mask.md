@@ -1,4 +1,5 @@
-## ![](../../images/icons/Sky_Mask.png) Sky Mask - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Sky%20Mask.py)
+## Sky Mask
+![](../../images/icons/Sky_Mask.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Sky%20Mask.py)
 
 ![](../../images/components/Sky_Mask.png)
 
@@ -34,20 +35,20 @@ Optional text for the name of a projection to use from the sky dome hemisphere t
 
 #### Outputs
 * ##### report
-...
+... 
 * ##### context_mask
-A mesh for the portion of the sky dome masked by the context_ geometry.
+A mesh for the portion of the sky dome masked by the context_ geometry. 
 * ##### orient_mask
-A mesh for the portion of the sky dome that is not visible from a surface is facing a given orientation.
+A mesh for the portion of the sky dome that is not visible from a surface is facing a given orientation. 
 * ##### strategy_mask
-A mesh of the portion of the sky dome masked by the overhang, left fin, and right fin projections.
+A mesh of the portion of the sky dome masked by the overhang, left fin, and right fin projections. 
 * ##### sky_mask
-A mesh of the portion of the sky dome visible by the _center_ through the strategies and context_ geometry.
+A mesh of the portion of the sky dome visible by the _center_ through the strategies and context_ geometry. 
 * ##### context_view
-The percentage of the sky dome masked by the context_ geometry.
+The percentage of the sky dome masked by the context_ geometry. 
 * ##### orient_view
-The percentage of the sky dome that is not visible from a surface is facing a given orientation.
+The percentage of the sky dome that is not visible from a surface is facing a given orientation. 
 * ##### strategy_view
-The percentage of the sky dome viewed by the overhang, left fin, and right fin projections.
+The percentage of the sky dome viewed by the overhang, left fin, and right fin projections. 
 * ##### sky_view
-The percentage of the sky dome visible by the _center_ through the strategies and context_ geometry.
+The percentage of the sky dome visible by the _center_ through the strategies and context_ geometry. 

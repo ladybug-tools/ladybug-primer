@@ -1,4 +1,5 @@
-## ![](../../images/icons/Generate_Point_Grid.png) Generate Point Grid - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Generate%20Point%20Grid.py)
+## Generate Point Grid
+![](../../images/icons/Generate_Point_Grid.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Generate%20Point%20Grid.py)
 
 ![](../../images/components/Generate_Point_Grid.png)
 
@@ -21,10 +22,10 @@ FOR ADVANCED USERS: This input can also be a vector object that will be used to 
 
 #### Outputs
 * ##### points
-Test points at the center of each mesh face.
+Test points at the center of each mesh face. 
 * ##### vectors
-Vectors for the normal direction at each of the points.
+Vectors for the normal direction at each of the points. 
 * ##### face_areas
-Area of each mesh face.
+Area of each mesh face. 
 * ##### mesh
-Analysis mesh that can be passed to the "LB Spatial Heatmap" component.
+Analysis mesh that can be passed to the "LB Spatial Heatmap" component. 

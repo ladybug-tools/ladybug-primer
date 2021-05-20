@@ -1,4 +1,5 @@
-## ![](../../images/icons/Psychrometric_Chart.png) Psychrometric Chart - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Psychrometric%20Chart.py)
+## Psychrometric Chart
+![](../../images/icons/Psychrometric_Chart.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Psychrometric%20Chart.py)
 
 ![](../../images/components/Psychrometric_Chart.png)
 
@@ -37,24 +38,24 @@ A Ladybug analysis period to be applied to the _temperature and _rel_humidity of
 
 #### Outputs
 * ##### report
-...
+... 
 * ##### title
-Text objects for the chart title and axes titles as well as a polyline for the outer border of the chart. Note that the polyline for the border excludes the saturation line.
+Text objects for the chart title and axes titles as well as a polyline for the outer border of the chart. Note that the polyline for the border excludes the saturation line. 
 * ##### temp_lines
-A list of line segments and text objects for the temperature labels on the chart.
+A list of line segments and text objects for the temperature labels on the chart. 
 * ##### rh_lines
-A list of curves and text objects for the relative humidity labels on the chart.
+A list of curves and text objects for the relative humidity labels on the chart. 
 * ##### hr_lines
-A list of line segments and text objects for the humidty ratio labels on the chart.
+A list of line segments and text objects for the humidty ratio labels on the chart. 
 * ##### enth_wb_lines
-A list of line segments and text objects for the enthalpy or wet bulb temperature labels on the chart.
+A list of line segments and text objects for the enthalpy or wet bulb temperature labels on the chart. 
 * ##### mesh
-A colored mesh showing the number of input hours that happen in each part of the psychrometric chart.
+A colored mesh showing the number of input hours that happen in each part of the psychrometric chart. 
 * ##### legend
-A colored legend showing the number of hours that correspond to each color.
+A colored legend showing the number of hours that correspond to each color. 
 * ##### points
-Points representing each of the input temperature and humidity values. By default, this ouput is hidden and it should be connected it to a native Grasshopper preview component to view it.
+Points representing each of the input temperature and humidity values. By default, this ouput is hidden and it should be connected it to a native Grasshopper preview component to view it. 
 * ##### data
-The input data_ with the input statements or the periods applied to it. These can be deconstructed with the "LB Deconstruct Data" component and the resulting values can be plugged into the "LB Create Legend" component to generate colors that can be used to color the points above using the native Grasshopper "Custom Preview" component.
+The input data_ with the input statements or the periods applied to it. These can be deconstructed with the "LB Deconstruct Data" component and the resulting values can be plugged into the "LB Create Legend" component to generate colors that can be used to color the points above using the native Grasshopper "Custom Preview" component. 
 * ##### psych_chart
-A Psychrometric Chart object, which can be connected to any of the "Comfort Polygon" components in order to plot polygons on the chart and perform thermal comfort analyses on the data.
+A Psychrometric Chart object, which can be connected to any of the "Comfort Polygon" components in order to plot polygons on the chart and perform thermal comfort analyses on the data. 

@@ -1,6 +1,6 @@
 # Summary
 
-* [{} Primer](README.md)
+* [Ladybug Primer](README.md)
 * [Components](text/categories/README.md)
 	* [0 :: Import](text/categories/0_Import.md)
 		* [Download Weather](text/components/Download_Weather.md)

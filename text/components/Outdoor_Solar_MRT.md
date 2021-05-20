@@ -1,4 +1,5 @@
-## ![](../../images/icons/Outdoor_Solar_MRT.png) Outdoor Solar MRT - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Outdoor%20Solar%20MRT.py)
+## Outdoor Solar MRT
+![](../../images/icons/Outdoor_Solar_MRT.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Outdoor%20Solar%20MRT.py)
 
 ![](../../images/components/Outdoor_Solar_MRT.png)
 
@@ -32,14 +33,14 @@ Set to True to run the component.
 
 #### Outputs
 * ##### report
-Reports, errors, warnings, etc.
+Reports, errors, warnings, etc. 
 * ##### short_erf
-Data collection of shortwave effective radiant field (ERF) in W/m2.
+Data collection of shortwave effective radiant field (ERF) in W/m2. 
 * ##### long_erf
-Data collection of longwave effective radiant field (ERF) in W/m2.
+Data collection of longwave effective radiant field (ERF) in W/m2. 
 * ##### short_dmrt
-Data collection of shortwave mean radiant temperature delta in C.
+Data collection of shortwave mean radiant temperature delta in C. 
 * ##### long_dmrt
-Data collection of longwave mean radiant temperature delta in C.
+Data collection of longwave mean radiant temperature delta in C. 
 * ##### mrt
-Data collection of mean radiant temperature in C.  This accounts for both the shortwave solar shining directly onto people as well as longwave radiant exchange with the sky.
+Data collection of mean radiant temperature in C.  This accounts for both the shortwave solar shining directly onto people as well as longwave radiant exchange with the sky. 

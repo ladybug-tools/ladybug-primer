@@ -1,4 +1,5 @@
-## ![](../../images/icons/Directional_Solar_Irradiance.png) Directional Solar Irradiance - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Directional%20Solar%20Irradiance.py)
+## Directional Solar Irradiance
+![](../../images/icons/Directional_Solar_Irradiance.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Directional%20Solar%20Irradiance.py)
 
 ![](../../images/components/Directional_Solar_Irradiance.png)
 
@@ -46,12 +47,12 @@ A boolean value that sets whether an anisotropic sky is used (as opposed to an i
 
 #### Outputs
 * ##### report
-...
+... 
 * ##### total
-A data collection of total solar irradiance or illuminance in the direction of the _srf_azimuth_ and _srf_altitude_.
+A data collection of total solar irradiance or illuminance in the direction of the _srf_azimuth_ and _srf_altitude_. 
 * ##### direct
-A data collection of direct solar irradiance or illuminance in the direction of the _srf_azimuth_ and _srf_altitude_.
+A data collection of direct solar irradiance or illuminance in the direction of the _srf_azimuth_ and _srf_altitude_. 
 * ##### diff
-A data collection of diffuse sky solar irradiance or illuminance in the direction of the _srf_azimuth_ and _srf_altitude_.
+A data collection of diffuse sky solar irradiance or illuminance in the direction of the _srf_azimuth_ and _srf_altitude_. 
 * ##### reflect
-A data collection of ground reflected solar irradiance or illuminance in the direction of the _srf_azimuth_ and _srf_altitude_.
+A data collection of ground reflected solar irradiance or illuminance in the direction of the _srf_azimuth_ and _srf_altitude_. 

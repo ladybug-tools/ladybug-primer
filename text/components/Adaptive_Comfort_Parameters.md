@@ -1,4 +1,5 @@
-## ![](../../images/icons/Adaptive_Comfort_Parameters.png) Adaptive Comfort Parameters - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Adaptive%20Comfort%20Parameters.py)
+## Adaptive Comfort Parameters
+![](../../images/icons/Adaptive_Comfort_Parameters.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Adaptive%20Comfort%20Parameters.py)
 
 ![](../../images/components/Adaptive_Comfort_Parameters.png)
 
@@ -24,4 +25,4 @@ A number between 0 and 1 that represents how "conditioned" vs. "free-running" th
 
 #### Outputs
 * ##### adapt_par
-An Adaptive comfort parameter object that can be plugged into any of the components that compute Adaptive thermal comfort.
+An Adaptive comfort parameter object that can be plugged into any of the components that compute Adaptive thermal comfort. 

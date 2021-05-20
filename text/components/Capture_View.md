@@ -1,4 +1,5 @@
-## ![](../../images/icons/Capture_View.png) Capture View - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Capture%20View.py)
+## Capture View
+![](../../images/icons/Capture_View.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Capture%20View.py)
 
 ![](../../images/components/Capture_View.png)
 
@@ -31,4 +32,4 @@ Set to "True" to capture the image of the Rhino viewport.
 
 #### Outputs
 * ##### file
-The file path of the image taken with this component.
+The file path of the image taken with this component. 

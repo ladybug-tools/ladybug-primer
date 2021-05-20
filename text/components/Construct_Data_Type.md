@@ -1,4 +1,5 @@
-## ![](../../images/icons/Construct_Data_Type.png) Construct Data Type - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Construct%20Data%20Type.py)
+## Construct Data Type
+![](../../images/icons/Construct_Data_Type.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Construct%20Data%20Type.py)
 
 ![](../../images/components/Construct_Data_Type.png)
 
@@ -17,4 +18,4 @@ An optional list of text for categories to be associated with the data type. The
 
 #### Outputs
 * ##### type
-A Ladybug DataType object that can be assigned to the header of a Ladybug DataCollection.
+A Ladybug DataType object that can be assigned to the header of a Ladybug DataCollection. 

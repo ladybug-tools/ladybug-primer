@@ -1,4 +1,5 @@
-## ![](../../images/icons/Passive_Strategies.png) Passive Strategies - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Passive%20Strategies.py)
+## Passive Strategies
+![](../../images/icons/Passive_Strategies.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Passive%20Strategies.py)
 
 ![](../../images/components/Passive_Strategies.png)
 

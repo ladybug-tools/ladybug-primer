@@ -1,4 +1,5 @@
-## ![](../../images/icons/View_From_Sun.png) View From Sun - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20View%20From%20Sun.py)
+## View From Sun
+![](../../images/icons/View_From_Sun.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20View%20From%20Sun.py)
 
 ![](../../images/components/View_From_Sun.png)
 
@@ -22,4 +23,4 @@ An optional text input for the display mode of the Rhino viewport that will be g
 
 #### Outputs
 * ##### report
-...
+... 

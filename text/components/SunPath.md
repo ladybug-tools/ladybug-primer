@@ -1,4 +1,5 @@
-## ![](../../images/icons/SunPath.png) SunPath - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20SunPath.py)
+## SunPath
+![](../../images/icons/SunPath.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20SunPath.py)
 
 ![](../../images/components/SunPath.png)
 
@@ -42,26 +43,26 @@ An optional LegendParameter object to change the display of the data on the sun 
 
 #### Outputs
 * ##### report
-...
+... 
 * ##### vectors
-Vector(s) indicating the direction of sunlight for each sun position on the sun path. Note that these vectors point downwards towards the ground.
+Vector(s) indicating the direction of sunlight for each sun position on the sun path. Note that these vectors point downwards towards the ground. 
 * ##### altitudes
-Number(s) indicating the sun altitude(s) in degrees for each sun position on the sun path.
+Number(s) indicating the sun altitude(s) in degrees for each sun position on the sun path. 
 * ##### azimuths
-Number(s) indicating the sun azimuths in degrees for each sun position on the sun path.
+Number(s) indicating the sun azimuths in degrees for each sun position on the sun path. 
 * ##### hoys
-The hour of the year for each sun positions on the sun path.
+The hour of the year for each sun positions on the sun path. 
 * ##### sun_pts
-Point(s) representing the location of the sun on the sunpath.
+Point(s) representing the location of the sun on the sunpath. 
 * ##### analemma
-A set of curves that mark the hourly positions of the sun throughout the different months of the year.
+A set of curves that mark the hourly positions of the sun throughout the different months of the year. 
 * ##### daily
-A set of arcs that mark the path of the sun across the sky dome over the course of a day.
+A set of arcs that mark the path of the sun across the sky dome over the course of a day. 
 * ##### compass
-A set of circles, lines and text objects that mark the cardinal directions in relation to the sun path.
+A set of circles, lines and text objects that mark the cardinal directions in relation to the sun path. 
 * ##### legend
-Geometry representing the legend for the input data_. Will be None if no _data is connected.
+Geometry representing the legend for the input data_. Will be None if no _data is connected. 
 * ##### title
-A text object for the title of the sunpath.
+A text object for the title of the sunpath. 
 * ##### color_pts
-A list of points colored with the input data_, which will display in the Rhino scene in accordance with the legend. Note that the text representation of these objects bears the RGB color of each point. So casting this output to text and then to a color will yeild color objects that can be used for previewing other types of geometry with the input data_. Will be None if no _data is connected.
+A list of points colored with the input data_, which will display in the Rhino scene in accordance with the legend. Note that the text representation of these objects bears the RGB color of each point. So casting this output to text and then to a color will yeild color objects that can be used for previewing other types of geometry with the input data_. Will be None if no _data is connected. 

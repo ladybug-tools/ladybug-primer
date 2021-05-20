@@ -1,4 +1,5 @@
-## ![](../../images/icons/Mass_Arithmetic_Operation.png) Mass Arithmetic Operation - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Mass%20Arithmetic%20Operation.py)
+## Mass Arithmetic Operation
+![](../../images/icons/Mass_Arithmetic_Operation.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Mass%20Arithmetic%20Operation.py)
 
 ![](../../images/components/Mass_Arithmetic_Operation.png)
 
@@ -20,4 +21,4 @@ Optional text for a new "type" key in the Data Collection's metadata. This will 
 
 #### Outputs
 * ##### data
-A Ladybug data collection object derived from the operation between the two data inputs.
+A Ladybug data collection object derived from the operation between the two data inputs. 
