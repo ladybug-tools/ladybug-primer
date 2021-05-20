@@ -12,7 +12,7 @@ Any components that cannot be updated automatically (because their inputs or ou
 
 #### Inputs
 * ##### sync [Required]
-Set to "True" to have this component to search through the current Grasshopper file and sync all Ladybug Tools components with the version in the Grasshopper toolbar. 
+Set to "True" to have this component to search through the current Grasshopper file and sync all Ladybug Tools components with the version in the Grasshopper toolbar. 
 
 #### Outputs
 * ##### report

@@ -14,7 +14,7 @@ A DesignDay object to deconstruct.
 * ##### name
 The name of the DesignDay object.
 * ##### day_type
-Text indicating the type of design day (ie. 'SummerDesignDay', 'WinterDesignDay' or other EnergyPlus days).
+Text indicating the type of design day (ie. 'SummerDesignDay', 'WinterDesignDay' or other EnergyPlus days).
 * ##### location
 A Ladybug Location object describing the location of the design day.
 * ##### date
@@ -24,7 +24,7 @@ Maximum dry bulb temperature over the design day (in C).
 * ##### dry_bulb_range
 Dry bulb range over the design day (in C).
 * ##### humidity_type
-Type of humidity to use. Will be one of the following: * Wetbulb * Dewpoint * HumidityRatio * Enthalpy
+Type of humidity to use. Will be one of the following: * Wetbulb * Dewpoint * HumidityRatio * Enthalpy
 * ##### humidity_value
 The value of the humidity condition above.
 * ##### barometric_p
@@ -36,4 +36,4 @@ Wind direction over the design day in degrees.
 * ##### sky_type
 Script output sky_type.
 * ##### sky_properties
-A list of properties describing the sky above. For ASHRAEClearSky this is a single value for clearness. For ASHRAETau, this is the tau_beam and tau_diffuse.
+A list of properties describing the sky above. For ASHRAEClearSky this is a single value for clearness. For ASHRAETau, this is the tau_beam and tau_diffuse.

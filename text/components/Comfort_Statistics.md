@@ -8,12 +8,12 @@ Get statitics of thermal comfort from a Ladybug Comfort Object.
 
 #### Inputs
 * ##### comf_obj [Required]
-A Ladybug ComfortCollection object from any of the comfort model components. 
+A Ladybug ComfortCollection object from any of the comfort model components. 
 
 #### Outputs
 * ##### pct_hot
 The percent of time that conditions are hotter than acceptable limits.
 * ##### pct_neutral
-The percent of time that conditions are within acceptable limits (aka. the percent of time comfortable).
+The percent of time that conditions are within acceptable limits (aka. the percent of time comfortable).
 * ##### pct_cold
 The percent of time that conditions are colder than acceptable limits.

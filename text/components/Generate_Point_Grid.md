@@ -14,10 +14,10 @@ Brep or Mesh from which to generate the points and grid.
 * ##### grid_size [Required]
 Number for the size of the test grid. 
 * ##### offset_dist 
-Number for the distance to move points from the surfaces of the input _geometry.  Typically, this should be a small positive number to ensure points are not blocked by the mesh. (Default: 0). 
+Number for the distance to move points from the surfaces of the input _geometry.  Typically, this should be a small positive number to ensure points are not blocked by the mesh. (Default: 0). 
 * ##### quad_only 
-Boolean to note whether meshing should be done using Rhino's defaults (False), which fills the entire _geometry to the edges with both quad and tringulated faces, or a mesh with only quad faces should be generated. 
-FOR ADVANCED USERS: This input can also be a vector object that will be used to set the orientation of the quad-only grid. Note that, if a vector is input here that is not aligned with the plane of the input _geometry, an error will be raised. 
+Boolean to note whether meshing should be done using Rhino's defaults (False), which fills the entire _geometry to the edges with both quad and tringulated faces, or a mesh with only quad faces should be generated. 
+FOR ADVANCED USERS: This input can also be a vector object that will be used to set the orientation of the quad-only grid. Note that, if a vector is input here that is not aligned with the plane of the input _geometry, an error will be raised. 
 
 #### Outputs
 * ##### points

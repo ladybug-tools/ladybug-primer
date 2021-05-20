@@ -10,8 +10,8 @@ For example, if the collection has a Power data type in W, this method will ret
 
 #### Inputs
 * ##### data [Required]
-A houry, sub-hourly or daily data collection that can be aggregated over time to yield data of a different metric. (eg. a data collection of Power values in W). 
+A houry, sub-hourly or daily data collection that can be aggregated over time to yield data of a different metric. (eg. a data collection of Power values in W). 
 
 #### Outputs
 * ##### data_aggr
-The data collection aggregated over time. (eg. a data collection of Energy values in kWh).
+The data collection aggregated over time. (eg. a data collection of Energy values in kWh).

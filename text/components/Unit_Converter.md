@@ -16,6 +16,6 @@ Text indicating the units of the output values (eg. 'K')
 
 #### Outputs
 * ##### all_u
-A text string indicating all possible units that can be plugged into _from_u and _to_u.
+A text string indicating all possible units that can be plugged into _from_u and _to_u.
 * ##### values
 The converted numerical values.

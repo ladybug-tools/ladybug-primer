@@ -14,4 +14,4 @@ A .ddy file path on your system as a string.
 * ##### location
 A Ladybug Location object describing the location data in the DDY file.
 * ##### design_days
-A list of DesignDay objects representing the design days contained within the ddy file.
+A list of DesignDay objects representing the design days contained within the ddy file.
