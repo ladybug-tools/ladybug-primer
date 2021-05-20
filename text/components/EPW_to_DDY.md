@@ -12,11 +12,11 @@ Information on the uncertainty introduced by using only one year of data to crea
 
 #### Inputs
 * ##### epw_file [Required]
-An .epw file path on your system, from which a .ddy will be generated. 
+An .epw file path on your system, from which a .ddy will be generated. 
 * ##### percentile 
-A number between 0 and 50 for the percentile difference from the most extreme conditions within the EPW to be used for the design day. Typical values are 0.4 and 1.0. (Default: 0.4). 
+A number between 0 and 50 for the percentile difference from the most extreme conditions within the EPW to be used for the design day. Typical values are 0.4 and 1.0. (Default: 0.4). 
 * ##### folder 
-An optional file path to a directory into which the DDY file will be written.  If None, the DDY file will be written to the ladybug default weather data folder and placed in a sub-folder called "ddy". 
+An optional file path to a directory into which the DDY file will be written.  If None, the DDY file will be written to the ladybug default weather data folder and placed in a sub-folder called "ddy". 
 * ##### write [Required]
 Set to "True" to write the .ddy file. 
 

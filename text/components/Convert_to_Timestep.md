@@ -10,9 +10,9 @@ This will be done either through linear interpolation or by culling out values 
 
 #### Inputs
 * ##### data [Required]
-A Ladybug Hourly DataCollection object.  This can be either continuous or discontinuous. 
+A Ladybug Hourly DataCollection object.  This can be either continuous or discontinuous. 
 * ##### timestep 
-The timestep to which the data will be converted. If this is higher than the input _data timestep, values will be linerarly interpolated to the new timestep.  If it is lower, values that do not fit the timestep will be removed from the DataCollection. (Defaut: 1) 
+The timestep to which the data will be converted. If this is higher than the input _data timestep, values will be linerarly interpolated to the new timestep.  If it is lower, values that do not fit the timestep will be removed from the DataCollection. (Defaut: 1) 
 
 #### Outputs
 * ##### data

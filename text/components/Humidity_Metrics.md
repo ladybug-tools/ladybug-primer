@@ -12,11 +12,11 @@ A value or data collection representing  dry bulb temperature [C]
 * ##### rel_humid [Required]
 A value or data collection representing relative humidity [%] 
 * ##### pressure 
-A value or data collection representing atmospheric pressure [Pa] Default is to use air pressure at sea level (101,325 Pa). 
+A value or data collection representing atmospheric pressure [Pa] Default is to use air pressure at sea level (101,325 Pa). 
 
 #### Outputs
 * ##### humid_ratio
-A data collection or value for humidity ratio (aka. absolute humidity). Units are fractional (kg water / kg air).
+A data collection or value for humidity ratio (aka. absolute humidity). Units are fractional (kg water / kg air).
 * ##### enthalpy
 A data collection or value for enthalpy (kJ / Kg).
 * ##### wet_bulb

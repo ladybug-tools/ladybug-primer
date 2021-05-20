@@ -10,7 +10,7 @@ Convert a DataCollection to the input _to_unit.
 * ##### data [Required]
 A DataCollection to be converted to different units. 
 * ##### to_unit 
-Text representing the unit to convert the DataCollection to (eg. m2). Connect the _data and see the all_unit output for a list of all currently-supported units for a given collection. The default won't perform any unit conversion on the output data. 
+Text representing the unit to convert the DataCollection to (eg. m2). Connect the _data and see the all_unit output for a list of all currently-supported units for a given collection. The default won't perform any unit conversion on the output data. 
 
 #### Outputs
 * ##### all_unit

@@ -20,7 +20,7 @@ End day (1-31).
 * ##### end_hour 
 End hour (0-23). 
 * ##### timestep 
-An integer number for the number of time steps per hours. Acceptable inputs include: 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60 
+An integer number for the number of time steps per hours. Acceptable inputs include: 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60 
 
 #### Outputs
 * ##### period

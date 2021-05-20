@@ -12,10 +12,10 @@ The speed of this component is thanks to the fact that the Geometry/Sky intersec
 
 #### Inputs
 * ##### int_mtx [Required]
-A Geometry/Sky Intersection Matrix from the "LB Incident Radiation"  component. This matrix contains the relationship between each point of the analyzed geometry and each patch of the sky. 
+A Geometry/Sky Intersection Matrix from the "LB Incident Radiation"  component. This matrix contains the relationship between each point of the analyzed geometry and each patch of the sky. 
 * ##### sky_mtx [Required]
-A Sky Matrix from the "LB Cumulative Sky Matrix" component, which describes the radiation coming from the various patches of the sky. The "LB Sky Dome" component can be used to visualize any sky matrix. 
+A Sky Matrix from the "LB Cumulative Sky Matrix" component, which describes the radiation coming from the various patches of the sky. The "LB Sky Dome" component can be used to visualize any sky matrix. 
 
 #### Outputs
 * ##### results
-A list of numbers that aligns with the points of the original analysis performed with the "LB Incident Radiation"  component. Each number indicates the cumulative incident radiation received by each of the points from the sky matrix in kWh/m2. To visualize these radiation values in the Rhino scene, connect these values to the "LB Spatial Heatmap" component along with the mesh output from the original analysis with the "LB Incident Radiation"  component.
+A list of numbers that aligns with the points of the original analysis performed with the "LB Incident Radiation"  component. Each number indicates the cumulative incident radiation received by each of the points from the sky matrix in kWh/m2. To visualize these radiation values in the Rhino scene, connect these values to the "LB Spatial Heatmap" component along with the mesh output from the original analysis with the "LB Incident Radiation"  component.

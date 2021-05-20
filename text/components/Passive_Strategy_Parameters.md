@@ -16,18 +16,18 @@ Passive Solar Heating - The polygon represents the conditions under which sun-e
 
 #### Inputs
 * ##### day_above_comf 
-A number in degrees Celsius representing the maximum daily temperature above the comfort range which can still be counted in the "Mass + Night Vent" polygon. (Default: 12 C). 
+A number in degrees Celsius representing the maximum daily temperature above the comfort range which can still be counted in the "Mass + Night Vent" polygon. (Default: 12 C). 
 * ##### night_below_comf 
-A number in degrees Celsius representing the minimum temperature below the maximum comfort polygon temperature that the outdoor temperature must drop at night in order to count towards the "Mass + Night Vent" polygon. (Default: 3C). 
+A number in degrees Celsius representing the minimum temperature below the maximum comfort polygon temperature that the outdoor temperature must drop at night in order to count towards the "Mass + Night Vent" polygon. (Default: 3C). 
 * ##### fan_air_speed 
-The air speed around the occupants that the fans create in m/s. This is used to create the "Occupant Use of Fans" polygon. Note that values above 1 m/s tend to blow papers off desks. (Default: 1.0 m/3) 
+The air speed around the occupants that the fans create in m/s. This is used to create the "Occupant Use of Fans" polygon. Note that values above 1 m/s tend to blow papers off desks. (Default: 1.0 m/3) 
 * ##### balance_temp 
-The balance temperature of the building in Celsius when accounting for all internal heat. This is used to create the "Capture Internal Heat" polygon. This value must be greater or equal to 5 C (balance temperatures below 10 C are exceedingly rare) and it should be less than the coldest temperature of the merged comfort polygon in order to be meaningful. (Default: 12.8 C) 
+The balance temperature of the building in Celsius when accounting for all internal heat. This is used to create the "Capture Internal Heat" polygon. This value must be greater or equal to 5 C (balance temperatures below 10 C are exceedingly rare) and it should be less than the coldest temperature of the merged comfort polygon in order to be meaningful. (Default: 12.8 C) 
 * ##### solar_heat_cap 
-A number representing the amount of outdoor solar flux (W/m2) that is needed to raise the temperature of the theoretical building by 1 degree Celsius. The lower this number, the more efficiently the space is able to absorb passive solar heat. The default assumes a relatively small passively solar heated zone without much mass. A higher number will be required the larger the space is and the more mass that it has. (Default: 50 W/m2) 
+A number representing the amount of outdoor solar flux (W/m2) that is needed to raise the temperature of the theoretical building by 1 degree Celsius. The lower this number, the more efficiently the space is able to absorb passive solar heat. The default assumes a relatively small passively solar heated zone without much mass. A higher number will be required the larger the space is and the more mass that it has. (Default: 50 W/m2) 
 * ##### time_constant 
-A number that represents the amount of time in hours that a therortical building can passively maintain its temperature. This is used to determine how many hours a space can maintain a cool temperature after night flushing for the "Mass + Night Vent" polygon. It is also used to determine how many hours a space can store solar radiation for the "Passive Solar Heating" polygon. The default assumes a relatively well-isulated building with a thermal mass typical of most contemporary buildings. Higher mass buildings will be able to support a longer time constant. (Default: 8 hours). 
+A number that represents the amount of time in hours that a therortical building can passively maintain its temperature. This is used to determine how many hours a space can maintain a cool temperature after night flushing for the "Mass + Night Vent" polygon. It is also used to determine how many hours a space can store solar radiation for the "Passive Solar Heating" polygon. The default assumes a relatively well-isulated building with a thermal mass typical of most contemporary buildings. Higher mass buildings will be able to support a longer time constant. (Default: 8 hours). 
 
 #### Outputs
 * ##### strategy_par
-Passive strategy parameters that can be plugged into the "LB PMV Polygon" to adjust the assumptions of the passive strategy polygons.
+Passive strategy parameters that can be plugged into the "LB PMV Polygon" to adjust the assumptions of the passive strategy polygons.

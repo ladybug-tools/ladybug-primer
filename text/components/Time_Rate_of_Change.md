@@ -10,8 +10,8 @@ For example, if the collection has an Energy data type in kWh, this method will
 
 #### Inputs
 * ##### data [Required]
-A houry, sub-hourly or daily data collection that can converted to a time rate of change metric. (eg. a data collection of Energy values in kWh). 
+A houry, sub-hourly or daily data collection that can converted to a time rate of change metric. (eg. a data collection of Energy values in kWh). 
 
 #### Outputs
 * ##### data_rate
-The data collection converted to time rate of changevalues. (eg. a data collection of Energy values in kWh).
+The data collection converted to time rate of changevalues. (eg. a data collection of Energy values in kWh).

@@ -14,8 +14,8 @@ A Data Collection to be normalized by the input _area.
 * ##### area [Required]
 Script variable Python 
 * ##### unit 
-Text for the units that the area value is in. Acceptable inputs include 'm2', 'ft2' and any other unit that is supported. (Default: m2). 
+Text for the units that the area value is in. Acceptable inputs include 'm2', 'ft2' and any other unit that is supported. (Default: m2). 
 
 #### Outputs
 * ##### data
-A Ladybug data collection object derived from the operation between the two data inputs.
+A Ladybug data collection object derived from the operation between the two data inputs.

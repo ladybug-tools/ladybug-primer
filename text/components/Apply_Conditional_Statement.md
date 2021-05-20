@@ -10,11 +10,11 @@ This will be done either through linear interpolation or by culling out values 
 
 #### Inputs
 * ##### data [Required]
-A list of aligned Data Collections to be evaluated against the _statement. 
+A list of aligned Data Collections to be evaluated against the _statement. 
 * ##### statement [Required]
-A conditional statement as a string (e.g. a > 25). 
-The variable of the first data collection should always be named 'a' (without quotations), the variable of the second list should be named 'b', and so on. 
-For example, if three data collections are connected to _data and the following statement is applied: '18 < a < 26 and b < 80 and c > 2' The resulting collections will only include values where the first data collection is between 18 and 26, the second collection is less than 80 and the third collection is greater than 2. 
+A conditional statement as a string (e.g. a > 25). 
+The variable of the first data collection should always be named 'a' (without quotations), the variable of the second list should be named 'b', and so on. 
+For example, if three data collections are connected to _data and the following statement is applied: '18 < a < 26 and b < 80 and c > 2' The resulting collections will only include values where the first data collection is between 18 and 26, the second collection is less than 80 and the third collection is greater than 2. 
 
 #### Outputs
 * ##### data

@@ -10,14 +10,14 @@ These parameters can be plugged into any of the components that compute PMV the
 
 #### Inputs
 * ##### ppd_thresh 
-A number between 5 and 100 that represents the upper threshold of PPD that is considered acceptable. Default is 10, which charcterizes most buildings in the ASHRAE-55 and EN-15251 standards. 
+A number between 5 and 100 that represents the upper threshold of PPD that is considered acceptable. Default is 10, which charcterizes most buildings in the ASHRAE-55 and EN-15251 standards. 
 * ##### hr_upper 
-A number between 0 and 1 indicating the upper limit of humidity ratio that is considered acceptable. Default is 1 for essentially no limit. 
+A number between 0 and 1 indicating the upper limit of humidity ratio that is considered acceptable. Default is 1 for essentially no limit. 
 * ##### hr_lower 
-A number between 0 and 1 indicating the lower limit of humidity ratio considered acceptable. Default is 0 for essentially no limit. 
+A number between 0 and 1 indicating the lower limit of humidity ratio considered acceptable. Default is 0 for essentially no limit. 
 * ##### still_air_thresh 
-The air speed threshold in m/s at which the standard effective temperature (SET) model will be used to correct for the cooling effect of elevated air speeds. Default is 0.1 m/s, which is the limit according to ASHRAE-55. 
+The air speed threshold in m/s at which the standard effective temperature (SET) model will be used to correct for the cooling effect of elevated air speeds. Default is 0.1 m/s, which is the limit according to ASHRAE-55. 
 
 #### Outputs
 * ##### pmv_par
-A PMV comfort parameter object that can be plugged into any of the components that compute PMV thermal comfort.
+A PMV comfort parameter object that can be plugged into any of the components that compute PMV thermal comfort.
