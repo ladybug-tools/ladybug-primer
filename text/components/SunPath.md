@@ -45,7 +45,7 @@ An optional LegendParameter object to change the display of the data on the sun 
 
 #### Outputs
 * ##### report
-... 
+Reports, errors, warnings, etc. 
 * ##### vectors
 Vector(s) indicating the direction of sunlight for each sun position on the sun path. Note that these vectors point downwards towards the ground. 
 * ##### altitudes

@@ -8,3 +8,4 @@
 * ![IMAGE](../../images/icons/Solar_Envelope.png) [Solar Envelope](../components/Solar_Envelope.md)
 * ![IMAGE](../../images/icons/View_From_Sun.png) [View From Sun](../components/View_From_Sun.md)
 * ![IMAGE](../../images/icons/Real_Time_Incident_Radiation.png) [Real Time Incident Radiation](../components/Real_Time_Incident_Radiation.md)
+* ![IMAGE](../../images/icons/Set_Rhino_Sun.png) [Set Rhino Sun](../components/Set_Rhino_Sun.md)
