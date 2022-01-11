@@ -17,17 +17,17 @@ Note that, for fully conditioned buildings, the PMV thermal comfort model should
 * ##### out_temp [Required]
 Outdoor temperatures in one of the following formats: 
 
+    * A Data Collection of outdoor dry bulb temperatures recorded overthe entire year. This Data Collection must be continouous and must either be an Hourly Collection or Daily Collection. In the event that the input adapt_par_ has a _avgm_or_runmean_ set to True, Monthly collections are also acceptable here. Note that, because an annual input is required, this input collection does not have to align with the _air_temp or _mrt_ inputs. 
+
     * A Data Collection of prevailing outdoor temperature values in C.This Data Collection must align with the _air_temp or _mrt_ inputs and bear the PrevailingOutdoorTemperature data type in its header. 
 
     * A single prevailing outdoor temperature value in C to be usedfor all of the _air_temp or _mrt_ inputs. 
-
-    * A Data Collection of outdoor dry bulb temperatures recorded overthe entire year. This Data Collection must be continouous and must either be an Hourly Collection or Daily Collection. In the event that the input adapt_par_ has a _avgm_or_runmean_ set to True, Monthly collections are also acceptable here. Note that, because an annual input is required, this input collection does not have to align with the _air_temp or _mrt_ inputs. 
 * ##### air_temp [Required]
-Data Collection or individual value of air temperature in C. 
+Data Collection or individual value for air temperature in C. 
 * ##### mrt 
-Data Collection or individual value of mean radiant temperature (MRT) in C. Default is the same as the air_temp. 
+Data Collection or individual value for mean radiant temperature (MRT) in C. Default is the same as the air_temp. 
 * ##### air_speed 
-Data Collection or individual of air speed value in m/s. Default is a very low speed of 0.1 m/s. 
+Data Collection or individual value for air speed in m/s. Note that higher air speeds in the adaptive model only widen the upper boundary of the comfort range at temperatures above 24 C and will not affect the lower temperature of the comfort range. Default is a very low speed of 0.1 m/s. 
 * ##### adapt_par 
 Optional comfort parameters from the "LB Adaptive Comfort Parameters" component to specify the criteria under which conditions are considered acceptable/comfortable. The default will use ASHRAE-55 adaptive comfort criteria. 
 * ##### run [Required]

@@ -11,7 +11,7 @@ Automatically download a .zip file from a URL where climate data resides, unzip 
 
 #### Inputs
 * ##### weather_URL [Required]
-Text representing the URL at which the climate data resides.  To open the a map interface for all publicly availabe climate data (epwmap), use the "EPWmap" component. 
+Text representing the URL at which the climate data resides.  To open the a map interface for all publicly availabe climate data, use the "LB EPWmap" component. 
 * ##### folder 
 An optional file path to a directory into which the weather file will be downloaded and unziped.  If None, the weather files will be downloaded to the ladybug default weather data folder and placed in a sub-folder with the name of the weather file location. 
 

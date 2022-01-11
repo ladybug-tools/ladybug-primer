@@ -20,12 +20,12 @@ A HourlyContinuousCollection or HourlyDiscontinuousCollection of wind directions
 Number that determines the number of directions to the wind rose will display. The number of directions must be greater then three to plot the wind rose (Default: 36). 
 * ##### center_pt 
 Point3D to be used as a starting point to generate the geometry of the plot (Default: (0, 0, 0)). 
-* ##### show_calmrose 
-A boolean to indicate if the wind rose displays a calm rose. The calm rose is a radial plot in the center of the wind rose with a radius corresponding to the total zero values divided by the number of directions. This allows the wind rose to represent zero values from _data even though such values don't have any direction associated with them. (Default: False). 
-* ##### show_freq 
-A boolean to show the frequency of _data data values in the wind direction bins. The frequency lines represent constant intervals in time while the color illustrates the average _data data values associated with each interval. The number of frequency lines with similar colors therefore indicate a higher frequency of that value. (Default: True) 
+* ##### show_calm 
+A boolean to indicate if the wind rose should display the fraction of time with zero wind speed using a circle in the center of the plot. The radius of this circle corresponds to the total amount of time with zero values divided by the number of directions. This means that the time period representing zero values is evenly distrobuted across all directions. (Default: False). 
+* ##### show_avg 
+A boolean to note whether the average value in each wind direction bin should be displayed instead of the complete frequency of _data values. (Default: False). 
 * ##### freq_dist 
-The distance for the frequency interval in model units. If  _show_calmrose is True, then the initial frequency interval corresponds to the number of calm hours in the data collection, which may not align with this _freq_dist (Default: 5 meters) 
+The distance for the frequency interval in model units. If  show_calm_ is True, then the initial frequency interval corresponds to the number of calm hours in the data collection, which may not align with this freq_dist_ (Default: 5 meters) 
 * ##### freq_hours 
 The number of hours in each frequency interval (Default: 50). 
 * ##### max_freq_lines 

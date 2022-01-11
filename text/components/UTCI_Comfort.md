@@ -15,13 +15,13 @@ While UTCI is valid in all climates, seasons, and scales, it assumes that human 
 
 #### Inputs
 * ##### air_temp [Required]
-Data Collection or individual value of air temperature in C. 
+Data Collection or individual value for air temperature in C. 
 * ##### mrt 
-Data Collection or individual value of mean radiant temperature (MRT) in C. Default is the same as the air_temp. 
+Data Collection or individual value for mean radiant temperature (MRT) in C. Default is the same as the air_temp. 
 * ##### rel_humid [Required]
-Data Collection or individual value of relative humidity in %. 
+Data Collection or individual value for relative humidity in %. Note that percent values are between 0 and 100. 
 * ##### wind_vel 
-Data Collection or individual of air speed values in m/s. Default is a low speed of 0.5 m/s, which is the lowest input speed that is recommended for the UTCI model. 
+Data Collection or individual value for meteoroligical wind velocity at 10 m above ground level in m/s. Note that this meteorological velocity at 10 m is simply 1.5 times the speed felt at ground level in the original Fiala model used to create the UTCI model. Therefore, multiplying air speed values at the height of the human subject by 1.5 will make them a suitable input for this component. Default is a low speed of 0.5 m/s, which is the lowest input speed that is recommended for the UTCI model. 
 * ##### run [Required]
 Set to True to run the component. 
 

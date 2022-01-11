@@ -13,13 +13,13 @@ PMV is a thermal comfort model for use on the interior of buildings where a heat
 
 #### Inputs
 * ##### air_temp [Required]
-Data Collection or individual value of air temperature in C. 
+Data Collection or individual value for air temperature in C. 
 * ##### mrt 
-Data Collection or individual value of mean radiant temperature (MRT) in C. Default is the same as the air_temp.. 
+Data Collection or individual value of mean radiant temperature (MRT) in C. Default is the same as the air_temp. 
 * ##### rel_humid [Required]
-Data Collection or individual value of relative humidity in %. 
+Data Collection or individual value for relative humidity in %. Note that percent values are between 0 and 100. 
 * ##### air_speed 
-Data Collection or individual of air speed values in m/s. Default is a very low speed of 0.1 m/s. 
+Data Collection or individual value for air speed in m/s. Default is a very low speed of 0.1 m/s, which is typical of the room air speeds induced by HVAC systems. 
 * ##### met_rate 
 Data Collection or individual value of metabolic rate in met. Default is set to 1.1 met for seated, typing. Typical values include the following. 
 

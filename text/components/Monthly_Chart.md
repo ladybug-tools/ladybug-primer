@@ -24,6 +24,8 @@ An optional number to set the Y dimension of the entire chart (Default: 40 meter
 Boolean to note whether multiple connected monthly or daily input _data with the same units should be stacked on top of each other. Otherwise, all bars for monthly/daily data will be placed next to each other.  (Default: False). 
 * ##### percentile 
 An optional number between 0 and 50 to be used for the percentile difference from the mean that hourly data meshes display at. For example, using 34 will generate hourly data meshes with a range of one standard deviation from the mean. Note that this input only has significance when the input data collections are hourly. (Default: 34) 
+* ##### time_marks 
+Boolean to note whether the month labels should be replaced with marks for the time of day in each month. This is useful for displaying hourly data, particularly when the input data is only for a month and not the whole year. 
 * ##### global_title 
 A text string to label the entire entire chart.  It will be displayed in the lower left of the output chart.  The default will display the metadata of the input _data. 
 * ##### y_axis_title 
