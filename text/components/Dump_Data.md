@@ -23,7 +23,7 @@ Text or an integer to set the format of the output file. Choose from the options
 * ##### name 
 A name for the file to which the data collections will be written. (Default: 'data'). 
 * ##### folder 
-An optional directory into which the data collections will be written.  The default is set to the simulation folder. 
+An optional directory into which the data collections will be written.  The default is set to a user-specific simulation folder. 
 * ##### dump [Required]
 Set to "True" to save the honeybee objects to file. 
 

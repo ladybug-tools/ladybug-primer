@@ -5,7 +5,7 @@
 ![](../../images/icons/Degree_Days.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Degree%20Days.py)
 
 
-Calculate humidity metrics from relative humidity, dry bulb temperature and (if present) atmospheric pressure. 
+Calculate heating and cooling degree-days from outdoor dry bulb temperature. 
 
 
 
