@@ -13,13 +13,13 @@ These parameters can be plugged into any of the components that estimate mean ra
 
 #### Inputs
 * ##### posture 
-A text string indicating the posture of the body. Letters must be lowercase.  Choose from the following: 
+A text string indicating the posture of the body. Letters must be lowercase. Default is "standing". Choose from the following: 
 
     - standing
 
     - seated
 
-    - supineDefault is "standing". 
+    - supine
 * ##### sharp 
 A number between 0 and 180 representing the solar horizontal angle relative to front of person (SHARP). 0 signifies sun that is shining directly into the person's face and 180 signifies sun that is shining at the person's back. Default is 135, asuming that a person typically faces their side or back to the sun to avoid glare. 
 * ##### body_az 

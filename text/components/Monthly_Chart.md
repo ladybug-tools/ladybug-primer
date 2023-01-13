@@ -52,3 +52,5 @@ A list of text objects that label the borders with month name and the intervals 
 A text oject for the Y-axis title. 
 * ##### title
 A text object for the global_title. 
+* ##### vis_set
+An object containing VisualizationSet arguments for drawing a detailed version of the Monthly Chart in the Rhino scene. This can be connected to the "LB Preview Visualization Set" component to display this version of the Monthly Chart in Rhino. 

@@ -36,3 +36,5 @@ A text object for the global_title.
 The colors associated with each input value. 
 * ##### legend_par
 The input legend parameters with defaults filled for unset properties. 
+* ##### vis_set
+Script variable Heatmap 

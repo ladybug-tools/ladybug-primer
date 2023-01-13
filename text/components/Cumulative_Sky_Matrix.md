@@ -25,7 +25,7 @@ An annual hourly DataCollection of Diffuse Horizontal Radiation such as that whi
 * ##### hoys 
 A number or list of numbers between 0 and 8760 that respresent the hour(s) of the year for which to generate the sky matrix. The "LB Calculate HOY" component can output this number given a month, day and hour. The "LB Analysis Period" component can output a list of HOYs within a certain hour or date range. By default, the matrix will be for the entire year. 
 * ##### high_density 
-A Boolean to indicate whether the higher-density Reinhart sky matrix should be generated (True), which has roughly 4 times the sky patches as the (default) original Tregenza sky (False). Note that, while the Reinhart sky has a higher resolution and is more accurate, it will result in considerably longer calculation time for incident radiation studies. The difference in sky resolution can be observed with the (Default: False). 
+A Boolean to indicate whether the higher-density Reinhart sky matrix should be generated (True), which has roughly 4 times the sky patches as the (default) original Tregenza sky (False). Note that, while the Reinhart sky has a higher resolution and is more accurate, it will result in considerably longer calculation time for incident radiation studies. The difference in sky resolution can be observed with the "LB Sky Dome" component. (Default: False). 
 * ##### ground_ref 
 A number between 0 and 1 to note the average ground reflectance that is associated with the sky matrix. (Default: 0.2). 
 * ##### folder 
