@@ -11,7 +11,7 @@ Visualize a sky matrix from the "LB Cumulative Sky Matrix" component as a colore
 
 #### Inputs
 * ##### sky_mtx [Required]
-A Sky Matrix from the "LB Cumulative Sky Matrix" component, which describes the radiation coming from the various patches of the sky. 
+A Sky Matrix from the "LB Cumulative Sky Matrix" component or the "LB Benefit Sky Matrix" component, which describes the radiation coming from the various patches of the sky. 
 * ##### center_pt 
 A point for the center of the dome. (Default: (0, 0, 0)) 
 * ##### scale 
@@ -22,6 +22,8 @@ Optional text for the name of a projection to use from the sky dome hemisphere t
     * Orthographic
 
     * Stereographic
+* ##### irradiance 
+Boolean to note whether the sky dome should be plotted with units of cumulative Radiation (kWh/m2) [False] or with units of average Irradiance (W/m2) [True]. (Default: False). 
 * ##### show_comp 
 Boolean to indicate whether only one dome with total radiation should be displayed (False) or three domes with the solar radiation components (total, direct, and diffuse) should be shown. (Default: False). 
 * ##### legend_par 
@@ -35,12 +37,14 @@ A colored mesh representing the intensity of radiation for each of the sky patch
 * ##### compass
 A set of circles, lines and text objects that mark the cardinal directions in relation to the sky dome. 
 * ##### legend
-A legend showing the kWh/m2 values that correspond to the colors of the mesh. 
+A legend showing the kWh/m2 or W/m2 values that correspond to the colors of the mesh. 
 * ##### title
-A text object for the title of the sunpath. 
+A text object for the title of the sky dome. 
 * ##### patch_vecs
 A list of vectors for each of the patches of the sky dome. All vectors are unit vectors and point from the center towards each of the patches. They can be used to construct visualizations of the rays used to perform radiation analysis. 
 * ##### patch_values
-Radiation values for each of the sky patches in kWh/m2. This will be one list if show_comp_ is "False" and a list of 3 lists (aka. a Data Tree) for total, direct, diffuse if show_comp_ is "True". 
+Radiation values for each of the sky patches in kWh/m2 or W/m2. This will be one list if show_comp_ is "False" and a list of 3 lists (aka. a Data Tree) for total, direct, diffuse if show_comp_ is "True". 
 * ##### mesh_values
 Radiation values for each face of the dome mesh in kWh/m2. This can be used to post-process the radiation data and then regenerate the dome visualization using the mesh output from this component and the "LB Spatial Heatmap" component. Examples of useful post- processing include converting the units to something other than kWh/m2, inverting the +/- sign of radiation values depending on whether radiation is helpful or harmful to building thermal loads, etc. This will be one list if show_comp_ is "False" and a list of 3 lists (aka. a Data Tree) for total, direct, diffuse if show_comp_ is "True". 
+* ##### vis_set
+An object containing VisualizationSet arguments for drawing a detailed version of the Sky Dome in the Rhino scene. This can be connected to the "LB Preview Visualization Set" component to display this version of the Sky Dome in Rhino. 

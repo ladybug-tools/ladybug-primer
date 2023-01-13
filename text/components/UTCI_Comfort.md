@@ -7,9 +7,11 @@
 
 Calculate Universal Thermal Climate Index (UTCI). 
 
-UTCI is a thermal comfort model strictly for the outdoors. It is an interational standard for outdoor temperature sensation (aka. "feels-like" temperature) and is the most common of such "feels-like" temperature metrics used by meteorologists. 
+UTCI is a thermal comfort model strictly for the outdoors. It is an international standard for outdoor temperature sensation (aka. "feels-like" temperature) and is one of the most common of such "feels-like" temperatures used by meteorologists. UTCI that attempts to satisfy the following requirements: 
 
-While UTCI is valid in all climates, seasons, and scales, it assumes that human subjects are walking and that they naturally adapt their clothing with the outdoor temperature. For outdoor situations that do not fit these criteria, the Physiological Equivalent Temperature (PET) model should be used. 
+1) Thermo-physiological significance in the whole range of heat exchange conditions. 2) Valid in all climates, seasons, and scales. 3) Useful for key applications in human biometeorology. 
+
+While UTCI is designed to be valid in all climates and seasons, it assumes that human subjects are walking (with a metabolic rate around 2.4 met) and that they naturally adapt their clothing with the outdoor temperature. For outdoor situations that do not fit these criteria, the Physiological Equivalent Temperature (PET) model is recommended. 
 
 
 

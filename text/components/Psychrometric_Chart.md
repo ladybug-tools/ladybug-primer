@@ -61,3 +61,5 @@ Points representing each of the input temperature and humidity values. By defaul
 The input data_ with the input statements or the periods applied to it. These can be deconstructed with the "LB Deconstruct Data" component and the resulting values can be plugged into the "LB Create Legend" component to generate colors that can be used to color the points above using the native Grasshopper "Custom Preview" component. 
 * ##### psych_chart
 A Psychrometric Chart object, which can be connected to any of the "Comfort Polygon" components in order to plot polygons on the chart and perform thermal comfort analyses on the data. 
+* ##### vis_set
+An object containing VisualizationSet arguments for drawing a detailed version of the Psychrometric Chart in the Rhino scene. This can be connected to the "LB Preview Visualization Set" component to display this version of the Psychrometric Chart in Rhino. 

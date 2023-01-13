@@ -15,10 +15,10 @@ Note that this component will raise a ValueError if the data type in the header 
 * ##### data [Required]
 A Data Collection to be normalized by the input _area. 
 * ##### area [Required]
-Script variable Python 
+A number representing area by which all of the data is normalized. 
 * ##### unit 
 Text for the units that the area value is in. Acceptable inputs include 'm2', 'ft2' and any other unit that is supported. (Default: m2). 
 
 #### Outputs
 * ##### data
-A Ladybug data collection object derived from the operation between the two data inputs. 
+A Ladybug data collection object derived that is normalized by the input area. 

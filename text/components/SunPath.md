@@ -68,3 +68,5 @@ Geometry representing the legend for the input data_. Will be None if no _data i
 A text object for the title of the sunpath. 
 * ##### color_pts
 A list of points colored with the input data_, which will display in the Rhino scene in accordance with the legend. Note that the text representation of these objects bears the RGB color of each point. So casting this output to text and then to a color will yeild color objects that can be used for previewing other types of geometry with the input data_. Will be None if no _data is connected. 
+* ##### vis_set
+An object containing VisualizationSet arguments for drawing a detailed version of the Sunpath in the Rhino scene. This can be connected to the "LB Preview Visualization Set" component to display this version of the Sunpath in Rhino. 

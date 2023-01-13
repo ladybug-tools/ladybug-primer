@@ -61,6 +61,8 @@ The predominant direction of the outpt wind rose in clockwise degrees from north
 * ##### angles
 A list of angles corresponding to each windrose directions. 
 * ##### calm_hours
-The number of hours with calm wind speeds. Only returns a value if the input  _data is wind speed. 
+The number of hours with calm wind speeds. Only returns a value if the input _data is wind speed. 
 * ##### histogram
 The input _data in a histogram structure after it has gone through any of  the statement or period operations input to this component. 
+* ##### vis_set
+An object containing VisualizationSet arguments for drawing a detailed version of the Wind Rose in the Rhino scene. This can be connected to the "LB Preview Visualization Set" component to display this version of the Wind Rose in Rhino. 

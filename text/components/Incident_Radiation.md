@@ -19,7 +19,7 @@ Also note that this component uses the CAD environment's ray intersection method
 
 #### Inputs
 * ##### sky_mtx [Required]
-A Sky Matrix from the "LB Cumulative Sky Matrix" component, which describes the radiation coming from the various patches of the sky. The "LB Sky Dome" component can be used to visualize any sky matrix to understand its relationship to the test geometry. 
+A Sky Matrix from the "LB Cumulative Sky Matrix" component or the "LB Benefit Sky Matrix" component, which describes the radiation coming from the various patches of the sky. The "LB Sky Dome" component can be used to visualize any sky matrix to understand its relationship to the test geometry. 
 * ##### geometry [Required]
 Rhino Breps and/or Rhino Meshes for which incident radiation analysis will be conducted. If Breps are input, they will be subdivided using the _grid_size to yeild individual points at which analysis will occur. If a Mesh is input, radiation analysis analysis will be performed for each face of this mesh instead of subdividing it. 
 * ##### context 
@@ -28,6 +28,8 @@ Rhino Breps and/or Rhino Meshes representing context geometry that can block sol
 A positive number in Rhino model units for the size of grid cells at which the input _geometry will be subdivided for incident radiation analysis. The smaller the grid size, the higher the resolution of the analysis and the longer the calculation will take. So it is recommended that one start with a large value here and decrease the value as needed. However, the grid size should usually be smaller than the dimensions of the smallest piece of the _geometry and context_ in order to yield meaningful results. 
 * ##### offset_dist 
 A number for the distance to move points from the surfaces of the input _geometry.  Typically, this should be a small positive number to ensure points are not blocked by the mesh. (Default: 10 cm in the equivalent Rhino Model units). 
+* ##### irradiance 
+Boolean to note whether the study should output units of cumulative Radiation (kWh/m2) [False] or units of average Irradiance (W/m2) [True].  (Default: False). 
 * ##### legend_par 
 Optional legend parameters from the "LB Legend Parameters" that will be used to customize the display of the results. 
 * ##### cpu_count 

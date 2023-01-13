@@ -44,3 +44,5 @@ A list of lines and polylines representing different time intervals of the plot.
 A list of text objects that label the borders with the time intervals that they demarcate. 
 * ##### title
 A text object for the global_title. 
+* ##### vis_set
+An object containing VisualizationSet arguments for drawing a detailed version of the Hourly Plot in the Rhino scene. This can be connected to the "LB Preview Visualization Set" component to display this version of the Hourly Plot in Rhino. 

@@ -7,7 +7,7 @@
 
 Estimate levels of clothing using a temperature value or data collection of temperatures to which a human subject is adapting (typically the outdoor air temperature). 
 
-This resulting clothing values can be plugged into the _clothing_ input of the "LB PMV Comfort" component or the "HB PMV Comfort Map". 
+This resulting clothing values can be plugged into the _clothing_ input of the "LB PMV Comfort" component or the "LB PET Comfort" component. They can also be used in thermal mapping recipes. 
 
 By default, this function derives clothing levels using a model developed by Schiavon, Stefano based on outdoor air temperature, which is implemented in the CBE comfort tool (https://comfort.cbe.berkeley.edu/). 
 
