@@ -5,9 +5,7 @@
 ![](../../images/icons/Legend_2D_Parameters.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Legend%202D%20Parameters.py)
 
 
-Use this component to change the colors, numerical range, and/or number of divisions of any Ladybug legend along with the corresponding colored mesh that the legend refers to. 
-
-Any Ladybug component that outputs a colored mesh and a legend will have an input that can accept Legend Parameters from this component. 
+Customize the properties of a screen-oreinted 2D legend displaying with the "LB Preview VisualizationSet" component. 
 
 
 

@@ -12,8 +12,8 @@ The "LB Preview VisualizationSet" component can be used to visualize the content
 
 
 #### Inputs
-* ##### vs [Required]
-A VisualizationSet object to be written to a file. Typically, this is the output from the "LB Preview VisualizationSet" component but it can also be a custom VisualiztionSet object created with the Ladybug Tools SDK. 
+* ##### vis_set [Required]
+A VisualizationSet object to be written to a file. This can also be VisualizationSet arguments from any Ladybug Tools component with a vis_set output. 
 * ##### format 
 Text or an integer to set the format of the output file. Choose from the options below. (Default: JSON). 
 
@@ -31,4 +31,4 @@ Set to "True" to save the VisualizationSet to a file.
 * ##### report
 Errors, warnings, etc. 
 * ##### vs_file
-The path of the file where the VisualisationSet is saved. 
+The path of the file where the VisualisationSet is saved. The "LB Preview VisualizationSet" component can be used to visualize the content from the file back into Grasshopper. 
