@@ -24,6 +24,8 @@ Data Collection or individual value for mean radiant temperature (MRT) in C. Def
 Data Collection or individual value for relative humidity in %. Note that percent values are between 0 and 100. 
 * ##### wind_vel 
 Data Collection or individual value for meteoroligical wind velocity at 10 m above ground level in m/s. Note that this meteorological velocity at 10 m is simply 1.5 times the speed felt at ground level in the original Fiala model used to create the UTCI model. Therefore, multiplying air speed values at the height of the human subject by 1.5 will make them a suitable input for this component. Default is a low speed of 0.5 m/s, which is the lowest input speed that is recommended for the UTCI model. 
+* ##### utci_par 
+Optional comfort parameters from the "LB UTCI Comfort Parameters" component to specify the temperatures (in Celcius) that are considered acceptable/comfortable. The default will assume a that the comfort range is between 9C and 26C. 
 * ##### run [Required]
 Set to True to run the component. 
 

@@ -25,7 +25,7 @@ A positive number in Rhino model units for the size of grid cells at which the i
 * ##### height_limit 
 A positive number for the minimum distance below (for collections) or maximum distance above (for rights) the average _geometry height that the envelope points can be. This is used when there are no vectors blocked for a given point. (Default: 100 meters). 
 * ##### solar_rights 
-Set to True to compute a solar rights boundary and False to compute a solar collection boundary. Solar rights boundaries represent the boundary below which one can build without shading the surrounding obstacles from any of the _vectors. Solar collection boundaries represent the boundary above which the one will have direct solar access to all of the input _vectors. (Default: False). 
+Set to True to compute a solar rights boundary and False to compute a solar collection boundary. Solar rights boundaries represent the boundary below which one can build without shading the surrounding obstacles from any of the _vectors. Solar collection boundaries represent the boundary above which one will have direct solar access to all of the input _vectors. (Default: False). 
 * ##### run [Required]
 Set to "True" to run the component and get a solar envelope. 
 

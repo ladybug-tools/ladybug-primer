@@ -17,7 +17,9 @@ An optional plane or point to set the location of the legend. (Default: Rhino or
 * ##### title 
 A text string representing a legend title. Legends are usually titled with the units of the data. 
 * ##### legend_par 
-Optional legend parameters from the  Legend Parameters component. 
+Optional legend parameters from the "LB Legend Parameters" component. 
+* ##### leg_par2d 
+Optional 2D LegendParameters from the "LB Legend Parameters 2D" component, which will be used to customize a legend in the plane of the screen so that it functions like a head-up display (HUD). If unspecified, the VisualizationSet will be rendered with 3D legends in the Rhino scene much like the other native Ladybug Tools components. 
 
 #### Outputs
 * ##### mesh

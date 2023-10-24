@@ -22,6 +22,8 @@ A number to set the Y dimension of the mesh cells (Default: 4 meters).
 A number to set the Z dimension of the entire chart. This will be used to make the colored_mesh3d of the chart vary in the Z dimension according to the data. The value input here should usually be several times larger than the x_dim or y_dim in order to be noticable (e.g. 100). If 0, the colored_mesh3d will simply be flat. (Default: 0). 
 * ##### reverse_y 
 Boolean to note whether the Y-axis of the chart is reversed If True, time over the course of the day will flow from the top of the chart to the bottom instead of the bottom to the top. 
+* ##### clock_24 
+Boolean to note whether the hour labels on the Y-Axis of the chart should be in 24-hour clock format (eg. 18:00) or they should be in 12-hour clock format (eg. 6PM). 
 * ##### legend_par 
 An optional LegendParameter object to change the display of the HourlyPlot. This can also be a list of legend parameters to be applied to the different connected _data. 
 * ##### statement 
