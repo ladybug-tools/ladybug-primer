@@ -1,20 +1,22 @@
-## Deconstruct Data
+# Deconstruct Data
 
-![](../../images/components/Deconstruct_Data.png)
+![](../../images/components/Deconstruct\_Data.png)
 
-![](../../images/icons/Deconstruct_Data.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Deconstruct%20Data.py)
+![](../../images/icons/Deconstruct\_Data.png) - [\[source code\]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug\_grasshopper/src/LB%20Deconstruct%20Data.py)
 
+Deconstruct a Ladybug DataCollection into a header and values.
 
-Deconstruct a Ladybug DataCollection into a header and values. 
+## Inputs
 
+*   **data \[Required]**
 
+    A Ladybug DataCollection object.&#x20;
 
-#### Inputs
-* ##### data [Required]
-A Ladybug DataCollection object. 
+## Outputs
 
-#### Outputs
-* ##### header
-The header of the DataCollection (containing metadata). 
-* ##### values
-The numerical values of the DataCollection. 
+*   **header**
+
+    The header of the DataCollection (containing metadata).&#x20;
+*   **values**
+
+    The numerical values of the DataCollection.&#x20;

@@ -1,28 +1,34 @@
-## Calculate HOY
+# Calculate HOY
 
-![](../../images/components/Calculate_HOY.png)
+![](../../images/components/Calculate\_HOY.png)
 
-![](../../images/icons/Calculate_HOY.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Calculate%20HOY.py)
+![](../../images/icons/Calculate\_HOY.png) - [\[source code\]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug\_grasshopper/src/LB%20Calculate%20HOY.py)
 
+Calculate hour of the year from month, day, hour, minute.
 
-Calculate hour of the year from month, day, hour, minute. 
+## Inputs
 
+*   **month**
 
+    Integer for month (1-12).&#x20;
+*   **day**
 
-#### Inputs
-* ##### month 
-Integer for month (1-12). 
-* ##### day 
-Integer for day (1-31). 
-* ##### hour 
-Integer for hour (0-23). 
-* ##### minute 
-Integer for minute (0-59). 
+    Integer for day (1-31).&#x20;
+*   **hour**
 
-#### Outputs
-* ##### hoy
-Hour of the year. 
-* ##### doy
-Day of the year. 
-* ##### date
-Human readable date time. 
+    Integer for hour (0-23).&#x20;
+*   **minute**
+
+    Integer for minute (0-59).&#x20;
+
+## Outputs
+
+*   **hoy**
+
+    Hour of the year.&#x20;
+*   **doy**
+
+    Day of the year.&#x20;
+*   **date**
+
+    Human readable date time.&#x20;

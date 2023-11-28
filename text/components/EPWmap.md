@@ -1,18 +1,19 @@
-## EPWmap
+# EPWmap
 
 ![](../../images/components/EPWmap.png)
 
-![](../../images/icons/EPWmap.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20EPWmap.py)
+![](../../images/icons/EPWmap.png) - [\[source code\]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug\_grasshopper/src/LB%20EPWmap.py)
 
+Open EPWmap in a web browser.
 
-Open EPWmap in a web browser. 
+## Inputs
 
+*   **epw\_map \[Required]**
 
+    Set to "True" to open EPWmap in a supported browser.&#x20;
 
-#### Inputs
-* ##### epw_map [Required]
-Set to "True" to open EPWmap in a supported browser. 
+## Outputs
 
-#### Outputs
-* ##### report
-... 
+*   **report**
+
+    ...&#x20;

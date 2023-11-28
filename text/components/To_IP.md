@@ -1,18 +1,19 @@
-## To IP
+# To IP
 
-![](../../images/components/To_IP.png)
+![](../../images/components/To\_IP.png)
 
-![](../../images/icons/To_IP.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20To%20IP.py)
+![](<../../images/icons/To\_IP (1).png>) - [\[source code\]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug\_grasshopper/src/LB%20To%20IP.py)
 
+Convert a DataCollection to IP values.
 
-Convert a DataCollection to IP values. 
+## Inputs
 
+*   **data\_si \[Required]**
 
+    A DataCollection in SI units.&#x20;
 
-#### Inputs
-* ##### data_si [Required]
-A DataCollection in SI units. 
+## Outputs
 
-#### Outputs
-* ##### data_ip
-The DataCollection in IP units. 
+*   **data\_ip**
+
+    The DataCollection in IP units.&#x20;
