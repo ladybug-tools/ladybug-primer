@@ -1,21 +1,20 @@
-# Data to Legacy
+## Data to Legacy
 
-![](../../images/components/Data\_to\_Legacy.png)
+![](../../images/components/Data_to_Legacy.png)
 
-![](../../images/icons/Data\_to\_Legacy.png) - [\[source code\]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug\_grasshopper/src/LB%20Data%20to%20Legacy.py)
+![](../../images/icons/Data_to_Legacy.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Data%20to%20Legacy.py)
 
-Convert a Ladybug DataCollection into its Ladybug Legacy format.
 
-Note that this component is intended to be temporary as people transition from Ladybug Legacy to Ladybug\[+].
+Convert a Ladybug DataCollection into its Ladybug Legacy format. 
 
-## Inputs
+Note that this component is intended to be temporary as people transition from Ladybug Legacy to Ladybug[+]. 
 
-*   **data \[Required]**
 
-    A Ladybug DataCollection object.&#x20;
 
-## Outputs
+#### Inputs
+* ##### data [Required]
+A Ladybug DataCollection object. 
 
-*   **data**
-
-    A Ladybug Legacy list with meatadata and values.&#x20;
+#### Outputs
+* ##### data
+A Ladybug Legacy list with meatadata and values. 

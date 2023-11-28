@@ -1,28 +1,24 @@
-# Deconstruct Header
+## Deconstruct Header
 
-![](../../images/components/Deconstruct\_Header.png)
+![](../../images/components/Deconstruct_Header.png)
 
-![](../../images/icons/Deconstruct\_Header.png) - [\[source code\]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug\_grasshopper/src/LB%20Deconstruct%20Header.py)
+![](../../images/icons/Deconstruct_Header.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Deconstruct%20Header.py)
 
-Deconstruct a Ladybug Header into its components.
 
-## Inputs
+Deconstruct a Ladybug Header into its components. 
 
-*   **header \[Required]**
 
-    The header of the DataCollection (containing metadata).&#x20;
 
-## Outputs
+#### Inputs
+* ##### header [Required]
+The header of the DataCollection (containing metadata). 
 
-*   **data\_type**
-
-    Type of data (e.g. Temperature) (Default: unknown).&#x20;
-*   **unit**
-
-    Units of the data\_type (e.g. C) (Default: unknown)&#x20;
-*   **a\_period**
-
-    A Ladybug AnalysisPeriod object.&#x20;
-*   **metadata**
-
-    Optional metadata associated with the Header.&#x20;
+#### Outputs
+* ##### data_type
+Type of data (e.g. Temperature) (Default: unknown). 
+* ##### unit
+Units of the data_type (e.g. C) (Default: unknown) 
+* ##### a_period
+A Ladybug AnalysisPeriod object. 
+* ##### metadata
+Optional metadata associated with the Header. 
