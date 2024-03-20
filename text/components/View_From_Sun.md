@@ -25,4 +25,4 @@ An optional text input for the display mode of the Rhino viewport that will be g
 
 #### Outputs
 * ##### report
-... 
+The name of the viewport that was opened. 

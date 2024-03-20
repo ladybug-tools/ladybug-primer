@@ -18,5 +18,7 @@ Text string to be displayed in the plane of the screen.
 Optional 2D LegendParameters from the "LB Legend Parameters 2D" component, which will be used to customize a text in the plane of the screen. Note that only the text_height, origin_x and origin_y inputs of this component affect the placement of the text. 
 * ##### font 
 An optional text string to specify the font to be used for the text. Examples include "Arial", "Times New Roman", "Courier" (all without quotations). Default is "Arial". 
+* ##### color 
+An optional color to set the color of the text. If unspecified, it will be black. 
 
 #### Outputs
