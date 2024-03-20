@@ -9,5 +9,4 @@
 * ![IMAGE](../../images/icons/Import_STAT.png) [Import STAT](../components/Import_STAT.md)
 * ![IMAGE](../../images/icons/Deconstruct_Design_Day.png) [Deconstruct Design Day](../components/Deconstruct_Design_Day.md)
 * ![IMAGE](../../images/icons/Import_Design_Day.png) [Import Design Day](../components/Import_Design_Day.md)
-* ![IMAGE](../../images/icons/Data_to_Legacy.png) [Data to Legacy](../components/Data_to_Legacy.md)
 * ![IMAGE](../../images/icons/EPW_to_DDY.png) [EPW to DDY](../components/EPW_to_DDY.md)

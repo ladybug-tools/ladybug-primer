@@ -17,7 +17,7 @@ Note that this component uses the CAD environment's ray intersection methods, wh
 * ##### view_type [Required]
 Text or an integer representing the type of view analysis to conduct.  Choose from the following options. 
 0 - HorizontalRadial - The percentage of the 360 horizontal view plane that is not blocked by the context geometry. 
-1 - Horizonta30DegreeOffset - The percentage of the 360 horizontal view band bounded on top and bottom by a 30 degree offset from the horizontal plane. 30 degress corresponds roughly to the vertical limit of human peripheral vision. 
+1 - Horizontal30DegreeOffset - The percentage of the 360 horizontal view band bounded on top and bottom by a 30 degree offset from the horizontal plane. 30 degrees corresponds roughly to the vertical limit of human peripheral vision. 
 2 - Spherical - The percentage of the sphere surrounding each of the test points that is not blocked by context geometry. This is equivalent to a solid angle and gives equal weight to all portions of the sphere. 
 3 - SkyExposure - The percentage of the sky that is visible from each of the the test points. This is distinct from SkyView, which is the amount of sky seen by a surface. SkyExposure is equivalent to a solid angle and gives equal weight to all portions of the sky. 
 4 - SkyView - The percentage of the sky that is visible from the _geometry surfaces. This is distinct from SkyExposure, which treats each part of the sky with equal weight. SkyView weights the portions of the sky according to thier projection into the plane of the surface being evaluated. So SkyView for a horizontal surface would give more importance to the sky patches that are overhead vs. those near the horizon. 
@@ -64,7 +64,7 @@ A list of numbers that aligns with the points. Each number indicates the percent
 * ##### mesh
 A colored mesh of the test _geometry representing the percentage of the input _geometry's view that is not blocked by context. 
 * ##### legend
-A legend showing the number of hours that correspond to the colors of the mesh. 
+A legend that correspond to the colors of the mesh and shows the percentage of the view_vecs that are not blocked by context geometry. 
 * ##### title
 A text object for the study title. 
 * ##### int_mtx
