@@ -4,7 +4,7 @@
 
 This primer provides an overview of the Ladybug components for Grasshopper.
 
-Ladybug imports standard EnergyPlus Weather files \(.EPW\) into Grasshopper and provides a variety of 2D and 3D interactive graphics to support the decision-making process during the early stages of design. The tool also provides several simple geometry analyses, including incident radiation and direct sun hours.
+Ladybug imports standard EnergyPlus Weather \(.EPW\) files into Grasshopper and provides a variety of 2D and 3D graphics to support the decision-making process during the early stages of design. The tool also provides several simple geometry analyses, including incident radiation and direct sun hours.
 
 ## Installation
 
