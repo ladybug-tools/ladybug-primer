@@ -25,7 +25,9 @@ Rhino Breps and/or Rhino Meshes representing context geometry that can block sun
 * ##### grid_size [Required]
 A positive number in Rhino model units for the size of grid cells at which the input _geometry will be subdivided for direct sun analysis. The smaller the grid size, the higher the resolution of the analysis and the longer the calculation will take.  So it is recommended that one start with a large value here and decrease the value as needed. However, the grid size should usually be smaller than the dimensions of the smallest piece of the _geometry and context_ in order to yield meaningful results. 
 * ##### offset_dist 
-A number for the distance to move points from the surfaces of the input _geometry.  Typically, this should be a small positive number to ensure points are not blocked by the mesh. (Default: 10 cm in the equivalent Rhino Model units). 
+A number for the distance to move points from the surfaces of the input _geometry.  Typically, this should be a small positive number to ensure points are not blocked by the mesh but it can be equal to zero when geo_block_ is False. (Default: 10 cm when geo_block_ is True and zero when geo_block_ is False). 
+* ##### geo_block 
+Set to "True" to count the input _geometry as opaque and set to "False" to discount the _geometry from the calculation and only look at context_ that blocks the sun. (Default: True). 
 * ##### legend_par 
 Optional legend parameters from the "LB Legend Parameters" that will be used to customize the display of the results. 
 * ##### cpu_count 

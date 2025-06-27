@@ -34,7 +34,7 @@ A text string to label the Y-axis of the chart.  This can also be a list of 2 Y-
 An optional LegendParameter object to change the display of the chart (Default: None). 
 
 #### Outputs
-* ##### report
+* ##### out
 ... 
 * ##### data_mesh
 A list of colored meshes that represent the different input data. These meshes will resemble a bar chart in the case of monthly or daily data and will resemble a band between two ranges for hourly and sub-hourly data. Multiple lists of meshes will be output for several input data streams. 

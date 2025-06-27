@@ -18,6 +18,7 @@
 * ![IMAGE](../../images/icons/Indoor_Solar_MRT.png) [Indoor Solar MRT](../components/Indoor_Solar_MRT.md)
 * ![IMAGE](../../images/icons/Outdoor_Solar_MRT.png) [Outdoor Solar MRT](../components/Outdoor_Solar_MRT.md)
 * ![IMAGE](../../images/icons/Ankle_Draft.png) [Ankle Draft](../components/Ankle_Draft.md)
+* ![IMAGE](../../images/icons/Apply_Pattern.png) [Apply Pattern](../components/Apply_Pattern.md)
 * ![IMAGE](../../images/icons/Clothing_by_Temperature.png) [Clothing by Temperature](../components/Clothing_by_Temperature.md)
 * ![IMAGE](../../images/icons/Comfort_Statistics.png) [Comfort Statistics](../components/Comfort_Statistics.md)
 * ![IMAGE](../../images/icons/Convert_to_Timestep.png) [Convert to Timestep](../components/Convert_to_Timestep.md)

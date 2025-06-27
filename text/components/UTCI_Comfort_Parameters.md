@@ -15,7 +15,7 @@ These parameters can be plugged into any of the components that compute UTCI com
 * ##### cold_thresh 
 Temperature in Celsius below which the UTCI represents cold stress. (Default: 9C). 
 * ##### heat_thresh 
-A number between 0 and 1 indicating the upper limit of humidity ratio that is considered acceptable. Default is 1 for essentially no limit. 
+Temperature in Celsius above which the UTCI represents heat stress. (Default: 26C). 
 
 #### Outputs
 * ##### utci_par
