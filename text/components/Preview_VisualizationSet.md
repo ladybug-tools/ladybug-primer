@@ -20,6 +20,9 @@ Script variable VisSet
 Optional 2D LegendParameters from the "LB Legend Parameters 2D" component, which will be used to customize a legend in the plane of the screen so that it functions like a head-up display (HUD). If unspecified, the VisualizationSet will be rendered with 3D legends in the Rhino scene much like the other native Ladybug Tools components. 
 * ##### data_set 
 Optional text or an integer to select a specific data set from analysis geometries within the Visualization Set. Note that this input only has meaning for Visualization Sets that contain multiple data sets assigned to the same geometry. When using an integer, this will refer to the index of the data set to be visualized (starting with 0). When using text, this will refer to the name of the data type for the data set to be displayed. 
+* ##### viewport 
+Text for the name of the Rhino viewport to which the 2D screen-oriented legend will be rendered. If unspecified, the 2D legend will be rendered in all viewports. Acceptable inputs include: 
+Perspective Top Bottom Left Right Front Back any view name that has been saved within the Rhino file 
 
 #### Outputs
 * ##### vs

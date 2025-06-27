@@ -1,8 +1,8 @@
-## SortByLayers
+## Sort by Layers
 
-![](../../images/components/SortByLayers.png)
+![](../../images/components/Sort_by_Layers.png)
 
-![](../../images/icons/SortByLayers.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20SortByLayers.py)
+![](../../images/icons/Sort_by_Layers.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Sort%20by%20Layers.py)
 
 
 Sort and group Rhino objects by layers.  Please find the source code from: https://github.com/ladybug-tools/ladybug-grasshopper-dotnet 

@@ -1,8 +1,8 @@
-## ImageViewer
+## Image Viewer
 
-![](../../images/components/ImageViewer.png)
+![](../../images/components/Image_Viewer.png)
 
-![](../../images/icons/ImageViewer.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20ImageViewer.py)
+![](../../images/icons/Image_Viewer.png) - [[source code]](https://github.com/ladybug-tools/ladybug-grasshopper/blob/master/ladybug_grasshopper/src//LB%20Image%20Viewer.py)
 
 
 Preview image files  Please find the source code from: https://github.com/ladybug-tools/ladybug-grasshopper-dotnet 
