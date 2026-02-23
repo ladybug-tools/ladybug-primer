@@ -21,7 +21,7 @@ Optional 2D LegendParameters from the "LB Legend Parameters 2D" component, which
 * ##### data_set 
 Optional text or an integer to select a specific data set from analysis geometries within the Visualization Set. Note that this input only has meaning for Visualization Sets that contain multiple data sets assigned to the same geometry. When using an integer, this will refer to the index of the data set to be visualized (starting with 0). When using text, this will refer to the name of the data type for the data set to be displayed. 
 * ##### viewport 
-Text for the name of the Rhino viewport to which the 2D screen-oriented legend will be rendered. If unspecified, the 2D legend will be rendered in all viewports. Acceptable inputs include: 
+Text for the name of the Rhino viewport in which the VisualizationSet will be rendered. Multiple viewports can be connected to have the VisualizationSet display in several viewports. If unspecified, the VisualizationSet is rendered in all viewports. Acceptable inputs include: 
 Perspective Top Bottom Left Right Front Back any view name that has been saved within the Rhino file 
 
 #### Outputs
