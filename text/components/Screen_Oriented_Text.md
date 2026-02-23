@@ -21,7 +21,7 @@ An optional text string to specify the font to be used for the text. Examples in
 * ##### color 
 An optional color to set the color of the text. If unspecified, it will be black. 
 * ##### viewport 
-Text for the name of the Rhino viewport to which the 2D screen-oriented legend will be rendered. If unspecified, the 2D legend will be rendered in all viewports. Acceptable inputs include: 
+Text for the name of the Rhino viewport to which the 2D screen-oriented text will be rendered. Multiple viewports can be connected to have the text display in several viewports. If unspecified, the text is rendered in all viewports. Acceptable inputs include: 
 Perspective Top Bottom Left Right Front Back any view name that has been saved within the Rhino file 
 
 #### Outputs

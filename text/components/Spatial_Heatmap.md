@@ -37,4 +37,4 @@ The colors associated with each input value.
 * ##### legend_par
 The input legend parameters with defaults filled for unset properties. 
 * ##### vis_set
-Script variable Heatmap 
+A VisualizationSet object for drawing a detailed version of the heatmap in the Rhino scene. This can be connected to the "LB Preview Visualization Set" component to display this version of the heatmap in Rhino. 

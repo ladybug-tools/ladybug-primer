@@ -20,6 +20,9 @@ A text string representing a legend title. Legends are usually titled with the u
 Optional legend parameters from the "LB Legend Parameters" component. 
 * ##### leg_par2d 
 Optional 2D LegendParameters from the "LB Legend Parameters 2D" component, which will be used to customize a legend in the plane of the screen so that it functions like a head-up display (HUD). If unspecified, the VisualizationSet will be rendered with 3D legends in the Rhino scene much like the other native Ladybug Tools components. 
+* ##### viewport 
+Text for the name of the Rhino viewport to which the 2D legend will be rendered. This input only has an effect when leg_par2d_ are connected. Multiple viewports can be connected to have the legend display in several viewports. If unspecified, the legend is rendered in all viewports. Acceptable inputs include: 
+Perspective Top Bottom Left Right Front Back any view name that has been saved within the Rhino file 
 
 #### Outputs
 * ##### mesh
